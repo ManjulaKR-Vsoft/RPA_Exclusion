@@ -2,6 +2,7 @@
   <x:Members>
     <x:Property Name="exceptionFile" Type="InArgument(x:String)" />
     <x:Property Name="EmailSubject" Type="InArgument(x:String)" />
+    <x:Property Name="ErrorMessage" Type="InArgument(x:String)" />
   </x:Members>
   <VisualBasic.Settings>
     <x:Null />
@@ -104,13 +105,13 @@
       <AssemblyReference>UiPath.CodedWorkflows</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="ExceptionEmail" sap:VirtualizedContainerService.HintSize="1299,474.04" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="ExceptionEmail" sap:VirtualizedContainerService.HintSize="1282,340" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:SendMail ResourceAttachmentList="{x:Null}" ResourceAttachments="{x:Null}" AttachmentInputMode="FilePaths" Bcc="{x:Null}" Body="[string.Format(&quot;&lt;P&gt;&lt;SPAN&gt;Hi,&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Please find the exception for Exclusion process.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Regards&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;RPA Team&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;/P&gt;&quot;)]" Cc="{x:Null}" ConnectionMode="LegacyConfiguration" ContinueOnError="{x:Null}" DisplayName="Send SMTP Email" Email="{x:Null}" EnableSSL="True" From="AU-KFCRPA@yum.com" sap:VirtualizedContainerService.HintSize="416,417" sap2010:WorkflowViewState.IdRef="SendMail_2" IgnoreCRL="False" IsBodyHtml="True" MailMessage="{x:Null}" Name="KFC Exclusion Automation - Exception" Password="{x:Null}" Port="25" ReplyTo="{x:Null}" Result="{x:Null}" SecureConnection="None" SecurePassword="{x:Null}" Server="dalmail.tgr.net" Subject="[EmailSubject]" TimeoutMS="{x:Null}" To="Manjula.Raju@yum.com" UseISConnection="False" UseOAuth="False">
+    <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" ContinueOnError="{x:Null}" Email="{x:Null}" MailMessage="{x:Null}" Password="{x:Null}" ReplyTo="{x:Null}" ResourceAttachmentList="{x:Null}" ResourceAttachments="{x:Null}" Result="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" AttachmentInputMode="FilePaths" Body="[string.Format(&quot;&lt;P&gt;&lt;SPAN&gt;Hi,&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Please find the exception for Exclusion process.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;Exception: &quot;+ErrorMessage +&quot;&lt;/P&gt;&lt;P&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Regards&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;RPA Team&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;/P&gt;&quot;)]" ConnectionMode="LegacyConfiguration" DisplayName="Send SMTP Email" EnableSSL="True" From="AU-KFCRPA@yum.com" sap:VirtualizedContainerService.HintSize="416,317" sap2010:WorkflowViewState.IdRef="SendMail_2" IgnoreCRL="False" IsBodyHtml="True" Name="KFC Exclusion Automation - Exception" Port="25" SecureConnection="None" Server="dalmail.tgr.net" Subject="[EmailSubject]" To="Manjula.Raju@yum.com" UseISConnection="False" UseOAuth="False">
       <ui:SendMail.AttachmentsBackup>
         <usau:BackupSlot x:TypeArguments="umame:AttachmentInputMode" StoredValue="FilePaths">
           <usau:BackupSlot.BackupValues>
