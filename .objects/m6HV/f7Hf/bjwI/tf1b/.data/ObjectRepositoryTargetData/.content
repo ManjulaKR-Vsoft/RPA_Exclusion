@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jm9rtgFIiU2bSfx83S3J5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionAdvance" CVScreenId="abbf1dd0-e7c3-4f6d-a761-f2b8461bcee8" CvElementArea="393, 560, 254, 39" CvType="InputBox" DesignTimeRectangle="394, 561, 253, 38" ElementType="InputBox" FullSelectorArgument="&lt;webctrl aaname='Select All' tag='BUTTON' /&gt;&lt;nav up='2' /&gt;&lt;webctrl tag='INPUT' type='text' placeholder='Search' /&gt;" Guid="ee2fda57-3b94-4417-a9da-22c9107421bd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="abbf1dd0-e7c3-4f6d-a761-f2b8461bcee8" CvTextArea="580, 529, 55, 13" CvTextArgument="Select All" CvType="Text" DesignTimeRectangle="569, 520, 78, 33" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Select All' tag='BUTTON' type='button' class='selectAllBtn customDropdownBTN rounded btn btn-link' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Select All' /&gt;" Guid="36a84d03-8650-45d2-aa62-33a69329a7dd" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9a0d49362ba847e4cace17978562af31.png" xmlns="">0DTLIZSWb-Eyn8UZcVoqzIQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Yum Brands! Employee Login",
+  "Type": "App",
+  "Id": "AVmXV8eB_UKXMBkM9SxlYw",
+  "Reference": "mEDzMWy4KESA-HIzYnwmGQ/AVmXV8eB_UKXMBkM9SxlYw",
+  "Created": "2025-08-08T06:35:11.4972745Z",
+  "Updated": "2025-08-08T06:35:11.4972745Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

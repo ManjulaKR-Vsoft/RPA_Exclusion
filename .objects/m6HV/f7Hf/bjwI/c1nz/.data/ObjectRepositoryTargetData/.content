@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dxHwU9RhH0m1f9SAuKMMqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionAdvance" CVScreenId="c8c01bd1-b440-4fdb-af00-fb05865714e9" CvElementArea="51, 272, 18, 18" CvType="RadioButton" DesignTimeRectangle="54, 275, 13, 13" ElementType="RadioButton" FuzzySelectorArgument="&lt;webctrl id='field-franchise' tag='INPUT' type='radio' class='mr-2' aaname='Select By Franchise' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8a47c188-0900-4c18-92a7-2e016f6e3f5a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion-KFC-Australia-Admin' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c8c01bd1-b440-4fdb-af00-fb05865714e9" CvElementArea="51, 272, 18, 18" CvTextArea="74, 274, 140, 15" CvTextArgument="Select By Franchise" CvType="RadioButton" DesignTimeRectangle="54, 271, 160, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='mr-5' aaname='Select By Franchise' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Select By Franchise' /&gt;" Guid="16207360-894a-4e02-9f9c-c45404862509" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c832911a08da797f769985b41068bd88.png" xmlns="">0K9HxwwcDNE6jolgbsNp31g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

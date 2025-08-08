@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JnSamkAXsUKRFv_Prhv9aw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionAdvance" CVScreenId="c8c01bd1-b440-4fdb-af00-fb05865714e9" CvElementArea="260, 272, 18, 18" CvType="RadioButton" DesignTimeRectangle="262, 275, 13, 13" ElementType="RadioButton" FuzzySelectorArgument="&lt;webctrl id='field-group' tag='INPUT' type='radio' class='mr-2' aaname='Select By Group' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="49b3a489-4e89-4020-ac0a-6c8f0d0434e4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion-KFC-Australia-Admin' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c8c01bd1-b440-4fdb-af00-fb05865714e9" CvElementArea="260, 272, 18, 18" CvTextArea="282, 274, 114, 18" CvTextArgument="Select By Group" CvType="RadioButton" DesignTimeRectangle="262, 271, 134, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Select By Group' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Select By Group' /&gt;" Guid="55c9f6b2-272d-4015-b047-529a76048a4f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ea024a9335222e2fd3316a90b10f4adb.png" xmlns="">0xzXMMH1yI0-nIC2JhvTMlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
