@@ -1,1015 +1,658 @@
-﻿Scenario,Product,Product_Name,ProductID,Status
-Scenario 1,NEW,1 Piece of Chicken,32922,Success
-Scenario 1,NEW,6 Pieces of Chicken,32923,Success
-Scenario 1,NEW,21 Pieces of Chicken,32924,Success
-Scenario 1,NEW,Original Crispy Fillet Piece,32929,Success
-Scenario 1,NEW,3 Pieces Hot & Crispy™,32930,Success
-Scenario 1,NEW,"6 Pieces Hot & Crispy™ ",32931,Success
-Scenario 1,NEW,"3 Pieces Combo Hot & Crispy™ ",32960,Success
-Scenario 1,NEW,"6 Pieces Combo Hot & Crispy™ ",32961,Success
-Scenario 1,NEW,Zinger® Burger Box Hot & Crispy™,32966,Success
-Scenario 1,NEW,Zinger® Burger Box Hot & Crispy™,33017,Success
-Scenario 1,NEW,"Zinger Stacker® Burger Box Hot & Crispy™ ",32967,Success
-Scenario 1,NEW,"Zinger Stacker® Burger Box Hot & Crispy™ ",33018,Success
-Scenario 1,NEW,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32968,Success
-Scenario 1,NEW,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",33019,Success
-Scenario 1,NEW,Original Crunch Twister® Box,32969,Success
-Scenario 1,NEW,Original Crunch Twister® Box,33020,Success
-Scenario 1,NEW,Zinger® Crunch Twister® Box,32970,Success
-Scenario 1,NEW,Zinger® Crunch Twister® Box,33021,Success
-Scenario 1,NEW,Original Crispy Burger Box,32971,Success
-Scenario 1,NEW,Original Crispy Burger Box,33011,Success
-Scenario 1,NEW,Original Crispy Bacon & Cheese Burger Box,32972,Success
-Scenario 1,NEW,Original Crispy Bacon & Cheese Burger Box,33012,Success
-Scenario 1,NEW,Original Crispy BBQ Bacon Stacker® Burger Box,32973,Success
-Scenario 1,NEW,Original Crispy BBQ Bacon Stacker® Burger Box,33013,Success
-Scenario 1,NEW,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32974,Success
-Scenario 1,NEW,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",33022,Success
-Scenario 1,NEW,3 Piece Box,32975,Success
-Scenario 1,NEW,3 Piece Box,33014,Success
-Scenario 1,NEW,Original Tenders™ Box,32976,Success
-Scenario 1,NEW,Original Tenders™ Box,33015,Success
-Scenario 1,NEW,Favourites Box,32977,Success
-Scenario 1,NEW,Favourites Box,33016,Success
-Scenario 1,NEW,Family Feast,32978,Success
-Scenario 1,NEW,Delivery Feast,32980,Success
-Scenario 1,NEW,Delivery Feast,33211,Success
-Scenario 1,NEW,Burger Feast,32981,Success
-Scenario 1,NEW,Burger Feast,33210,Success
-Scenario 1,NEW,Value Feast,32982,Success
-Scenario 1,NEW,Value Feast,33009,Success
-Scenario 1,NEW,21 Pieces of Chicken - SA/WA,33001,Success
-Scenario 1,NEW,Giant Feast,33104,Success
-Scenario 1,NEW,NEW Mega Chicken Box,33105,Success
-Scenario 1,NEW,NEW Mega Chicken Box,33212,Success
-Scenario 1,NEW,NEW Mega Burger Feast,33206,Success
-Scenario 1,NEW,Giant Feast - SA/WA,33208,Success
-Scenario 1,NEW,3 Pieces of Chicken,33214,Success
-Scenario 1,NEW,3 Piece Combo,33215,Success
-Scenario 1,NEW,My Bucket,33238,Success
-Scenario 1,NEW,Family Feast,33006,Success
-Scenario 1,NEW,Giant Feast - SB,33207,Success
-Scenario 1,NEW,Giant Feast - SB SA,33209,Success
-Scenario 1,NEW,Double Tender™ Burger Box,33213,Success
-Scenario 1,NEW,Zinger® Burger,32879,Success
-Scenario 1,NEW,Zinger® Burger Combo,32880,Success
-Scenario 1,NEW,Double Tender™ Burger,32886,Success
-Scenario 1,NEW,Zinger® Bacon & Cheese Burger,32887,Success
-Scenario 1,NEW,Zinger® Crunch Burger™,32888,Success
-Scenario 1,NEW,Original Crispy Burger,32889,Success
-Scenario 1,NEW,Original Crispy Bacon & Cheese Burger,32890,Success
-Scenario 1,NEW,Original Crispy BBQ Bacon Stacker® Burger,32891,Success
-Scenario 1,NEW,Zinger Stacker® Burger,32892,Success
-Scenario 1,NEW,3 Wicked Wings®,32925,Success
-Scenario 1,NEW,6 Wicked Wings®,32926,Success
-Scenario 1,NEW,10 Wicked Wings®,32927,Success
-Scenario 1,NEW,Zinger® Fillet Piece,32928,Success
-Scenario 1,NEW,3 Original Tenders™,32932,Success
-Scenario 1,NEW,5 Original Tenders™,32933,Success
-Scenario 1,NEW,6 Nuggets,32934,Success
-Scenario 1,NEW,10 Nuggets,32935,Success
-Scenario 1,NEW,Regular Popcorn Chicken®,32936,Success
-Scenario 1,NEW,Maxi Popcorn Chicken®,32937,Success
-Scenario 1,NEW,Snack Popcorn Chicken®,32938,Success
-Scenario 1,NEW,Double Tender™ Burger Combo,32939,Success
-Scenario 1,NEW,Zinger Stacker® Burger Combo,32940,Success
-Scenario 1,NEW,Original Crispy Burger Combo,32941,Success
-Scenario 1,NEW,Original Crispy Bacon & Cheese Burger Combo,32943,Success
-Scenario 1,NEW,Original Crispy BBQ Bacon Stacker® Burger Combo,32944,Success
-Scenario 1,NEW,Zinger® Bacon & Cheese Burger Combo,32945,Success
-Scenario 1,NEW,Regular Popcorn Chicken® Combo,32954,Success
-Scenario 1,NEW,Maxi Popcorn Chicken® Combo,32955,Success
-Scenario 1,NEW,6 Wicked Wings® Combo,32956,Success
-Scenario 1,NEW,Snack Popcorn Chicken® Combo,32957,Success
-Scenario 1,NEW,10 Wicked Wings® Combo,32958,Success
-Scenario 1,NEW,3 Wicked Wings® Combo,32959,Success
-Scenario 1,NEW,6 Nugget Combo,32962,Success
-Scenario 1,NEW,10 Nugget Combo,32963,Success
-Scenario 1,NEW,3 Original Tenders™ Combo,32964,Success
-Scenario 1,NEW,5 Original Tenders™ Combo,32965,Success
-Scenario 1,NEW,Original Pepper Mayo Slider,32897,Success
-Scenario 1,NEW,Original BBQ Slider,32898,Success
-Scenario 1,NEW,Original Crunch Twister® ,32899,Success
-Scenario 1,NEW,Zinger® Crunch Twister®  ,32900,Success
-Scenario 1,NEW,"Original Supercharged Slider ",32901,Success
-Scenario 1,NEW,Regular Chips,32902,Success
-Scenario 1,NEW,Large Chips,32903,Success
-Scenario 1,NEW,Regular Potato & Gravy,32904,Success
-Scenario 1,NEW,Large Potato & Gravy,32905,Success
-Scenario 1,NEW,Regular Coleslaw,32906,Success
-Scenario 1,NEW,Large Coleslaw,32907,Success
-Scenario 1,NEW,Regular Gravy,32908,Success
-Scenario 1,NEW,Crunchy Jalapeno Slaw,32909,Success
-Scenario 1,NEW,Dinner Roll,32910,Success
-Scenario 1,NEW,Double Chocolate Mousse,32911,Success
-Scenario 1,NEW,Original Tenders™ Crunch Bowl,32912,Success
-Scenario 1,NEW,Zinger® Crunch Bowl,32913,Success
-Scenario 1,NEW,Go Bucket® 2 Wicked Wings®,32914,Success
-Scenario 1,NEW,Go Bucket® 1 Original Tender™,32915,Success
-Scenario 1,NEW,Go Bucket® Popcorn Chicken®,32916,Success
-Scenario 1,NEW,Go Bucket® 3 Nuggets,32917,Success
-Scenario 1,NEW,"Zinger® Crunch Burger™ Combo ",32942,Success
-Scenario 1,NEW,Original Crunch Twister® Combo,32946,Success
-Scenario 1,NEW,"Zinger® Crunch Twister® Combo ",32947,Success
-Scenario 1,NEW,Zinger® Crunch Bowl Combo,32948,Success
-Scenario 1,NEW,Original Tenders™ Crunch Bowl Combo,32949,Success
-Scenario 1,NEW,Kids Meal with BBQ Slider,32950,Success
-Scenario 1,NEW,Kids Meal with Nuggets,32951,Success
-Scenario 1,NEW,Kids Meal with Snack Popcorn Chicken®,32952,Success
-Scenario 1,NEW,Go Bucket® Hot & Crispy™,33216,Success
-Scenario 1,NEW,4 Dipping Sauces,33218,Success
-Scenario 1,NEW,BBQ Dip,43819,Not Found
-Scenario 1,NEW,Supercharged Dip,43820,Not Found
-Scenario 1,NEW,Aioli Dip,43823,Not Found
-Scenario 1,NEW,Jalapeno Mayo Dip,44003,Not Found
-Scenario 1,NEW,Large Coleslaw(4x110g),33217,Success
-Scenario 1,NEW,Sweet & Sour Dip,43822,Not Found
-Scenario 1,NEW,Sweet Chilli Dip,43821,Not Found
-Scenario 1,NEW,Tomato Dip,43810,Not Found
-Scenario 1,NEW,Regular Pepsi Max^,43829,Not Found
-Scenario 1,NEW,Large Pepsi Max^,43830,Not Found
-Scenario 1,NEW,Large Pepsi Max^,43848,Not Found
-Scenario 1,NEW,1.25L Pepsi Max^,43831,Not Found
-Scenario 1,NEW,Regular Pepsi^,43811,Not Found
-Scenario 1,NEW,Regular Pepsi^,43849,Not Found
-Scenario 1,NEW,LargePepsi^,43827,Not Found
-Scenario 1,NEW,LargePepsi^,43850,Not Found
-Scenario 1,NEW,1.25L Pepsi^,43828,Not Found
-Scenario 1,NEW,Regular 7Up,43832,Not Found
-Scenario 1,NEW,Large 7Up,43833,Not Found
-Scenario 1,NEW,1.25L 7Up,43834,Not Found
-Scenario 1,NEW,Regular Mountain Dew,43835,Not Found
-Scenario 1,NEW,Regular Mountain Dew,43851,Not Found
-Scenario 1,NEW,Large Mountain Dew,43836,Not Found
-Scenario 1,NEW,Large Mountain Dew,43852,Not Found
-Scenario 1,NEW,1.25L Mountain Dew,43837,Not Found
-Scenario 1,NEW,Regular Solo,43838,Not Found
-Scenario 1,NEW,Regular Solo,43853,Not Found
-Scenario 1,NEW,Large Solo,43839,Not Found
-Scenario 1,NEW,Large Solo,43854,Not Found
-Scenario 1,NEW,1.25L Solo,43840,Not Found
-Scenario 1,NEW,Regular Sunkist No Sugar,43841,Not Found
-Scenario 1,NEW,Large Sunkist No Sugar,43842,Not Found
-Scenario 1,NEW,1.25L Sunkist No Sugar,43843,Not Found
-Scenario 1,NEW,Regular Sunkist,43845,Not Found
-Scenario 1,NEW,Large Sunkist,43846,Not Found
-Scenario 1,NEW,Bottled Water,33219,Success
-Scenario 1,NEW,Sparkling Water,33220,Success
-Scenario 1,NEW,Apple Juice,33221,Success
-Scenario 1,NEW,Lipton Peach Ice Tea,33222,Success
-Scenario 1,NEW,Iced Mocha Koffee Krunch,33231,Success
-Scenario 1,NEW,Iced Caramel Koffee Krunch,33232,Success
-Scenario 1,NEW,Iced Latte,33225,Success
-Scenario 1,NEW,Watermelon Boba Refresher~,33226,Success
-Scenario 1,NEW,Cherry Boba Refresher~,33227,Success
-Scenario 1,NEW,Chocolate Krunch Shake,33229,Success
-Scenario 1,NEW,Caramel Krunch Shake,33228,Success
-Scenario 1,NEW,Coconut Mango Krunch Shake,33230,Success
-Scenario 1,NEW,Sparkling Raspberry Lemonade~,33224,Success
-Scenario 1,NEW,Spicy Mango Lemonade~,33223,Success
-Scenario 2,NEW,1 Piece of Chicken,32922,Success
-Scenario 2,NEW,6 Pieces of Chicken,32923,Success
-Scenario 2,NEW,21 Pieces of Chicken,32924,Success
-Scenario 2,NEW,Original Crispy Fillet Piece,32929,Success
-Scenario 2,NEW,3 Pieces Hot & Crispy™,32930,Success
-Scenario 2,NEW,"6 Pieces Hot & Crispy™ ",32931,Success
-Scenario 2,NEW,"3 Pieces Combo Hot & Crispy™ ",32960,Success
-Scenario 2,NEW,"6 Pieces Combo Hot & Crispy™ ",32961,Success
-Scenario 2,NEW,Zinger® Burger Box Hot & Crispy™,32966,Success
-Scenario 2,NEW,Zinger® Burger Box Hot & Crispy™,33017,Success
-Scenario 2,NEW,"Zinger Stacker® Burger Box Hot & Crispy™ ",32967,Success
-Scenario 2,NEW,"Zinger Stacker® Burger Box Hot & Crispy™ ",33018,Success
-Scenario 2,NEW,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32968,Success
-Scenario 2,NEW,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",33019,Success
-Scenario 2,NEW,Original Crunch Twister® Box,32969,Success
-Scenario 2,NEW,Original Crunch Twister® Box,33020,Success
-Scenario 2,NEW,Zinger® Crunch Twister® Box,32970,Success
-Scenario 2,NEW,Zinger® Crunch Twister® Box,33021,Success
-Scenario 2,NEW,Original Crispy Burger Box,32971,Success
-Scenario 2,NEW,Original Crispy Burger Box,33011,Success
-Scenario 2,NEW,Original Crispy Bacon & Cheese Burger Box,32972,Success
-Scenario 2,NEW,Original Crispy Bacon & Cheese Burger Box,33012,Success
-Scenario 2,NEW,Original Crispy BBQ Bacon Stacker® Burger Box,32973,Success
-Scenario 2,NEW,Original Crispy BBQ Bacon Stacker® Burger Box,33013,Success
-Scenario 2,NEW,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32974,Success
-Scenario 2,NEW,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",33022,Success
-Scenario 2,NEW,3 Piece Box,32975,Success
-Scenario 2,NEW,3 Piece Box,33014,Success
-Scenario 2,NEW,Original Tenders™ Box,32976,Success
-Scenario 2,NEW,Original Tenders™ Box,33015,Success
-Scenario 2,NEW,Favourites Box,32977,Success
-Scenario 2,NEW,Favourites Box,33016,Success
-Scenario 2,NEW,Family Feast,32978,Success
-Scenario 2,NEW,Delivery Feast,32980,Success
-Scenario 2,NEW,Delivery Feast,33211,Success
-Scenario 2,NEW,Burger Feast,32981,Success
-Scenario 2,NEW,Burger Feast,33210,Success
-Scenario 2,NEW,Value Feast,32982,Success
-Scenario 2,NEW,Value Feast,33009,Success
-Scenario 2,NEW,21 Pieces of Chicken - SA/WA,33001,Success
-Scenario 2,NEW,Giant Feast,33104,Success
-Scenario 2,NEW,NEW Mega Chicken Box,33105,Success
-Scenario 2,NEW,NEW Mega Chicken Box,33212,Success
-Scenario 2,NEW,NEW Mega Burger Feast,33206,Success
-Scenario 2,NEW,Giant Feast - SA/WA,33208,Success
-Scenario 2,NEW,3 Pieces of Chicken,33214,Success
-Scenario 2,NEW,3 Piece Combo,33215,Success
-Scenario 2,NEW,My Bucket,33238,Success
-Scenario 2,NEW,Family Feast,33006,Success
-Scenario 2,NEW,Giant Feast - SB,33207,Success
-Scenario 2,NEW,Giant Feast - SB SA,33209,Success
-Scenario 2,NEW,Double Tender™ Burger Box,33213,Success
-Scenario 2,NEW,Zinger® Burger,32879,Success
-Scenario 2,NEW,Zinger® Burger Combo,32880,Success
-Scenario 2,NEW,Double Tender™ Burger,32886,Success
-Scenario 2,NEW,Zinger® Bacon & Cheese Burger,32887,Success
-Scenario 2,NEW,Zinger® Crunch Burger™,32888,Success
-Scenario 2,NEW,Original Crispy Burger,32889,Success
-Scenario 2,NEW,Original Crispy Bacon & Cheese Burger,32890,Success
-Scenario 2,NEW,Original Crispy BBQ Bacon Stacker® Burger,32891,Success
-Scenario 2,NEW,Zinger Stacker® Burger,32892,Success
-Scenario 2,NEW,3 Wicked Wings®,32925,Success
-Scenario 2,NEW,6 Wicked Wings®,32926,Success
-Scenario 2,NEW,10 Wicked Wings®,32927,Success
-Scenario 2,NEW,Zinger® Fillet Piece,32928,Success
-Scenario 2,NEW,3 Original Tenders™,32932,Success
-Scenario 2,NEW,5 Original Tenders™,32933,Success
-Scenario 2,NEW,6 Nuggets,32934,Success
-Scenario 2,NEW,10 Nuggets,32935,Success
-Scenario 2,NEW,Regular Popcorn Chicken®,32936,Success
-Scenario 2,NEW,Maxi Popcorn Chicken®,32937,Success
-Scenario 2,NEW,Snack Popcorn Chicken®,32938,Success
-Scenario 2,NEW,Double Tender™ Burger Combo,32939,Success
-Scenario 2,NEW,Zinger Stacker® Burger Combo,32940,Success
-Scenario 2,NEW,Original Crispy Burger Combo,32941,Success
-Scenario 2,NEW,Original Crispy Bacon & Cheese Burger Combo,32943,Success
-Scenario 2,NEW,Original Crispy BBQ Bacon Stacker® Burger Combo,32944,Success
-Scenario 2,NEW,Zinger® Bacon & Cheese Burger Combo,32945,Success
-Scenario 2,NEW,Regular Popcorn Chicken® Combo,32954,Success
-Scenario 2,NEW,Maxi Popcorn Chicken® Combo,32955,Success
-Scenario 2,NEW,6 Wicked Wings® Combo,32956,Success
-Scenario 2,NEW,Snack Popcorn Chicken® Combo,32957,Success
-Scenario 2,NEW,10 Wicked Wings® Combo,32958,Success
-Scenario 2,NEW,3 Wicked Wings® Combo,32959,Success
-Scenario 2,NEW,6 Nugget Combo,32962,Success
-Scenario 2,NEW,10 Nugget Combo,32963,Success
-Scenario 2,NEW,3 Original Tenders™ Combo,32964,Success
-Scenario 2,NEW,5 Original Tenders™ Combo,32965,Success
-Scenario 2,NEW,Original Pepper Mayo Slider,32897,Success
-Scenario 2,NEW,Original BBQ Slider,32898,Success
-Scenario 2,NEW,Original Crunch Twister® ,32899,Success
-Scenario 2,NEW,Zinger® Crunch Twister®  ,32900,Success
-Scenario 2,NEW,"Original Supercharged Slider ",32901,Success
-Scenario 2,NEW,Regular Chips,32902,Success
-Scenario 2,NEW,Large Chips,32903,Success
-Scenario 2,NEW,Regular Potato & Gravy,32904,Success
-Scenario 2,NEW,Large Potato & Gravy,32905,Success
-Scenario 2,NEW,Regular Coleslaw,32906,Success
-Scenario 2,NEW,Large Coleslaw,32907,Success
-Scenario 2,NEW,Regular Gravy,32908,Success
-Scenario 2,NEW,Crunchy Jalapeno Slaw,32909,Success
-Scenario 2,NEW,Dinner Roll,32910,Success
-Scenario 2,NEW,Double Chocolate Mousse,32911,Success
-Scenario 2,NEW,Original Tenders™ Crunch Bowl,32912,Success
-Scenario 2,NEW,Zinger® Crunch Bowl,32913,Success
-Scenario 2,NEW,Go Bucket® 2 Wicked Wings®,32914,Success
-Scenario 2,NEW,Go Bucket® 1 Original Tender™,32915,Success
-Scenario 2,NEW,Go Bucket® Popcorn Chicken®,32916,Success
-Scenario 2,NEW,Go Bucket® 3 Nuggets,32917,Success
-Scenario 2,NEW,"Zinger® Crunch Burger™ Combo ",32942,Success
-Scenario 2,NEW,Original Crunch Twister® Combo,32946,Success
-Scenario 2,NEW,"Zinger® Crunch Twister® Combo ",32947,Success
-Scenario 2,NEW,Zinger® Crunch Bowl Combo,32948,Success
-Scenario 2,NEW,Original Tenders™ Crunch Bowl Combo,32949,Success
-Scenario 2,NEW,Kids Meal with BBQ Slider,32950,Success
-Scenario 2,NEW,Kids Meal with Nuggets,32951,Success
-Scenario 2,NEW,Kids Meal with Snack Popcorn Chicken®,32952,Success
-Scenario 2,NEW,Go Bucket® Hot & Crispy™,33216,Success
-Scenario 2,NEW,4 Dipping Sauces,33218,Success
-Scenario 2,NEW,BBQ Dip,43819,Not Found
-Scenario 2,NEW,Supercharged Dip,43820,Not Found
-Scenario 2,NEW,Aioli Dip,43823,Not Found
-Scenario 2,NEW,Jalapeno Mayo Dip,44003,Not Found
-Scenario 2,NEW,Large Coleslaw(4x110g),33217,Success
-Scenario 2,NEW,Sweet & Sour Dip,43822,Not Found
-Scenario 2,NEW,Sweet Chilli Dip,43821,Not Found
-Scenario 2,NEW,Tomato Dip,43810,Not Found
-Scenario 2,NEW,Regular Pepsi Max^,43829,Not Found
-Scenario 2,NEW,Large Pepsi Max^,43830,Not Found
-Scenario 2,NEW,Large Pepsi Max^,43848,Not Found
-Scenario 2,NEW,1.25L Pepsi Max^,43831,Not Found
-Scenario 2,NEW,Regular Pepsi^,43811,Not Found
-Scenario 2,NEW,Regular Pepsi^,43849,Not Found
-Scenario 2,NEW,LargePepsi^,43827,Not Found
-Scenario 2,NEW,LargePepsi^,43850,Not Found
-Scenario 2,NEW,1.25L Pepsi^,43828,Not Found
-Scenario 2,NEW,Regular 7Up,43832,Not Found
-Scenario 2,NEW,Large 7Up,43833,Not Found
-Scenario 2,NEW,1.25L 7Up,43834,Not Found
-Scenario 2,NEW,Regular Mountain Dew,43835,Not Found
-Scenario 2,NEW,Regular Mountain Dew,43851,Not Found
-Scenario 2,NEW,Large Mountain Dew,43836,Not Found
-Scenario 2,NEW,Large Mountain Dew,43852,Not Found
-Scenario 2,NEW,1.25L Mountain Dew,43837,Not Found
-Scenario 2,NEW,Regular Solo,43838,Not Found
-Scenario 2,NEW,Regular Solo,43853,Not Found
-Scenario 2,NEW,Large Solo,43839,Not Found
-Scenario 2,NEW,Large Solo,43854,Not Found
-Scenario 2,NEW,1.25L Solo,43840,Not Found
-Scenario 2,NEW,Regular Sunkist No Sugar,43841,Not Found
-Scenario 2,NEW,Large Sunkist No Sugar,43842,Not Found
-Scenario 2,NEW,1.25L Sunkist No Sugar,43843,Not Found
-Scenario 2,NEW,Regular Sunkist,43845,Not Found
-Scenario 2,NEW,Large Sunkist,43846,Not Found
-Scenario 2,NEW,Bottled Water,33219,Success
-Scenario 2,NEW,Sparkling Water,33220,Success
-Scenario 2,NEW,Apple Juice,33221,Success
-Scenario 2,NEW,Lipton Peach Ice Tea,33222,Success
-Scenario 2,NEW,Iced Mocha Koffee Krunch,33231,Success
-Scenario 2,NEW,Iced Caramel Koffee Krunch,33232,Success
-Scenario 2,NEW,Iced Latte,33225,Success
-Scenario 2,NEW,Watermelon Boba Refresher~,33226,Success
-Scenario 2,NEW,Cherry Boba Refresher~,33227,Success
-Scenario 2,NEW,Chocolate Krunch Shake,33229,Success
-Scenario 2,NEW,Caramel Krunch Shake,33228,Success
-Scenario 2,NEW,Coconut Mango Krunch Shake,33230,Success
-Scenario 2,NEW,Sparkling Raspberry Lemonade~,33224,Success
-Scenario 2,NEW,Spicy Mango Lemonade~,33223,Success
-Scenario 3,NEW,1 Piece of Chicken,32922,Success
-Scenario 3,NEW,6 Pieces of Chicken,32923,Success
-Scenario 3,NEW,21 Pieces of Chicken,32924,Success
-Scenario 3,NEW,Original Crispy Fillet Piece,32929,Success
-Scenario 3,NEW,3 Pieces Hot & Crispy™,32930,Success
-Scenario 3,NEW,"6 Pieces Hot & Crispy™ ",32931,Success
-Scenario 3,NEW,"3 Pieces Combo Hot & Crispy™ ",32960,Success
-Scenario 3,NEW,"6 Pieces Combo Hot & Crispy™ ",32961,Success
-Scenario 3,NEW,Zinger® Burger Box Hot & Crispy™,32966,Success
-Scenario 3,NEW,Zinger® Burger Box Hot & Crispy™,33017,Success
-Scenario 3,NEW,"Zinger Stacker® Burger Box Hot & Crispy™ ",32967,Success
-Scenario 3,NEW,"Zinger Stacker® Burger Box Hot & Crispy™ ",33018,Success
-Scenario 3,NEW,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32968,Success
-Scenario 3,NEW,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",33019,Success
-Scenario 3,NEW,Original Crunch Twister® Box,32969,Success
-Scenario 3,NEW,Original Crunch Twister® Box,33020,Success
-Scenario 3,NEW,Zinger® Crunch Twister® Box,32970,Success
-Scenario 3,NEW,Zinger® Crunch Twister® Box,33021,Success
-Scenario 3,NEW,Original Crispy Burger Box,32971,Success
-Scenario 3,NEW,Original Crispy Burger Box,33011,Success
-Scenario 3,NEW,Original Crispy Bacon & Cheese Burger Box,32972,Success
-Scenario 3,NEW,Original Crispy Bacon & Cheese Burger Box,33012,Success
-Scenario 3,NEW,Original Crispy BBQ Bacon Stacker® Burger Box,32973,Success
-Scenario 3,NEW,Original Crispy BBQ Bacon Stacker® Burger Box,33013,Success
-Scenario 3,NEW,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32974,Success
-Scenario 3,NEW,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",33022,Success
-Scenario 3,NEW,3 Piece Box,32975,Success
-Scenario 3,NEW,3 Piece Box,33014,Success
-Scenario 3,NEW,Original Tenders™ Box,32976,Success
-Scenario 3,NEW,Original Tenders™ Box,33015,Success
-Scenario 3,NEW,Favourites Box,32977,Success
-Scenario 3,NEW,Favourites Box,33016,Success
-Scenario 3,NEW,Family Feast,32978,Success
-Scenario 3,NEW,Delivery Feast,32980,Success
-Scenario 3,NEW,Delivery Feast,33211,Success
-Scenario 3,NEW,Burger Feast,32981,Success
-Scenario 3,NEW,Burger Feast,33210,Success
-Scenario 3,NEW,Value Feast,32982,Success
-Scenario 3,NEW,Value Feast,33009,Success
-Scenario 3,NEW,21 Pieces of Chicken - SA/WA,33001,Success
-Scenario 3,NEW,Giant Feast,33104,Success
-Scenario 3,NEW,NEW Mega Chicken Box,33105,Success
-Scenario 3,NEW,NEW Mega Chicken Box,33212,Success
-Scenario 3,NEW,NEW Mega Burger Feast,33206,Success
-Scenario 3,NEW,Giant Feast - SA/WA,33208,Success
-Scenario 3,NEW,3 Pieces of Chicken,33214,Success
-Scenario 3,NEW,3 Piece Combo,33215,Success
-Scenario 3,NEW,My Bucket,33238,Success
-Scenario 3,NEW,Family Feast,33006,Success
-Scenario 3,NEW,Giant Feast - SB,33207,Success
-Scenario 3,NEW,Giant Feast - SB SA,33209,Success
-Scenario 3,NEW,Double Tender™ Burger Box,33213,Success
-Scenario 3,NEW,Zinger® Burger,32879,Success
-Scenario 3,NEW,Zinger® Burger Combo,32880,Success
-Scenario 3,NEW,Double Tender™ Burger,32886,Success
-Scenario 3,NEW,Zinger® Bacon & Cheese Burger,32887,Success
-Scenario 3,NEW,Zinger® Crunch Burger™,32888,Success
-Scenario 3,NEW,Original Crispy Burger,32889,Success
-Scenario 3,NEW,Original Crispy Bacon & Cheese Burger,32890,Success
-Scenario 3,NEW,Original Crispy BBQ Bacon Stacker® Burger,32891,Success
-Scenario 3,NEW,Zinger Stacker® Burger,32892,Success
-Scenario 3,NEW,3 Wicked Wings®,32925,Success
-Scenario 3,NEW,6 Wicked Wings®,32926,Success
-Scenario 3,NEW,10 Wicked Wings®,32927,Success
-Scenario 3,NEW,Zinger® Fillet Piece,32928,Success
-Scenario 3,NEW,3 Original Tenders™,32932,Success
-Scenario 3,NEW,5 Original Tenders™,32933,Success
-Scenario 3,NEW,6 Nuggets,32934,Success
-Scenario 3,NEW,10 Nuggets,32935,Success
-Scenario 3,NEW,Regular Popcorn Chicken®,32936,Success
-Scenario 3,NEW,Maxi Popcorn Chicken®,32937,Success
-Scenario 3,NEW,Snack Popcorn Chicken®,32938,Success
-Scenario 3,NEW,Double Tender™ Burger Combo,32939,Success
-Scenario 3,NEW,Zinger Stacker® Burger Combo,32940,Success
-Scenario 3,NEW,Original Crispy Burger Combo,32941,Success
-Scenario 3,NEW,Original Crispy Bacon & Cheese Burger Combo,32943,Success
-Scenario 3,NEW,Original Crispy BBQ Bacon Stacker® Burger Combo,32944,Success
-Scenario 3,NEW,Zinger® Bacon & Cheese Burger Combo,32945,Success
-Scenario 3,NEW,Regular Popcorn Chicken® Combo,32954,Success
-Scenario 3,NEW,Maxi Popcorn Chicken® Combo,32955,Success
-Scenario 3,NEW,6 Wicked Wings® Combo,32956,Success
-Scenario 3,NEW,Snack Popcorn Chicken® Combo,32957,Success
-Scenario 3,NEW,10 Wicked Wings® Combo,32958,Success
-Scenario 3,NEW,3 Wicked Wings® Combo,32959,Success
-Scenario 3,NEW,6 Nugget Combo,32962,Success
-Scenario 3,NEW,10 Nugget Combo,32963,Success
-Scenario 3,NEW,3 Original Tenders™ Combo,32964,Success
-Scenario 3,NEW,5 Original Tenders™ Combo,32965,Success
-Scenario 3,NEW,Original Pepper Mayo Slider,32897,Success
-Scenario 3,NEW,Original BBQ Slider,32898,Success
-Scenario 3,NEW,Original Crunch Twister® ,32899,Success
-Scenario 3,NEW,Zinger® Crunch Twister®  ,32900,Success
-Scenario 3,NEW,"Original Supercharged Slider ",32901,Success
-Scenario 3,NEW,Regular Chips,32902,Success
-Scenario 3,NEW,Large Chips,32903,Success
-Scenario 3,NEW,Regular Potato & Gravy,32904,Success
-Scenario 3,NEW,Large Potato & Gravy,32905,Success
-Scenario 3,NEW,Regular Coleslaw,32906,Success
-Scenario 3,NEW,Large Coleslaw,32907,Success
-Scenario 3,NEW,Regular Gravy,32908,Success
-Scenario 3,NEW,Crunchy Jalapeno Slaw,32909,Success
-Scenario 3,NEW,Dinner Roll,32910,Success
-Scenario 3,NEW,Double Chocolate Mousse,32911,Success
-Scenario 3,NEW,Original Tenders™ Crunch Bowl,32912,Success
-Scenario 3,NEW,Zinger® Crunch Bowl,32913,Success
-Scenario 3,NEW,Go Bucket® 2 Wicked Wings®,32914,Success
-Scenario 3,NEW,Go Bucket® 1 Original Tender™,32915,Success
-Scenario 3,NEW,Go Bucket® Popcorn Chicken®,32916,Success
-Scenario 3,NEW,Go Bucket® 3 Nuggets,32917,Success
-Scenario 3,NEW,"Zinger® Crunch Burger™ Combo ",32942,Success
-Scenario 3,NEW,Original Crunch Twister® Combo,32946,Success
-Scenario 3,NEW,"Zinger® Crunch Twister® Combo ",32947,Success
-Scenario 3,NEW,Zinger® Crunch Bowl Combo,32948,Success
-Scenario 3,NEW,Original Tenders™ Crunch Bowl Combo,32949,Success
-Scenario 3,NEW,Kids Meal with BBQ Slider,32950,Success
-Scenario 3,NEW,Kids Meal with Nuggets,32951,Success
-Scenario 3,NEW,Kids Meal with Snack Popcorn Chicken®,32952,Success
-Scenario 3,NEW,Go Bucket® Hot & Crispy™,33216,Success
-Scenario 3,NEW,4 Dipping Sauces,33218,Success
-Scenario 3,NEW,BBQ Dip,43819,Success
-Scenario 3,NEW,Supercharged Dip,43820,Success
-Scenario 3,NEW,Aioli Dip,43823,Success
-Scenario 3,NEW,Jalapeno Mayo Dip,44003,Success
-Scenario 3,NEW,Large Coleslaw(4x110g),33217,Success
-Scenario 3,NEW,Sweet & Sour Dip,43822,Success
-Scenario 3,NEW,Sweet Chilli Dip,43821,Success
-Scenario 3,NEW,Tomato Dip,43810,Success
-Scenario 3,NEW,Regular Pepsi Max^,43829,Success
-Scenario 3,NEW,Large Pepsi Max^,43830,Success
-Scenario 3,NEW,Large Pepsi Max^,43848,Success
-Scenario 3,NEW,1.25L Pepsi Max^,43831,Success
-Scenario 3,NEW,Regular Pepsi^,43811,Success
-Scenario 3,NEW,Regular Pepsi^,43849,Success
-Scenario 3,NEW,LargePepsi^,43827,Success
-Scenario 3,NEW,LargePepsi^,43850,Success
-Scenario 3,NEW,1.25L Pepsi^,43828,Success
-Scenario 3,NEW,Regular 7Up,43832,Success
-Scenario 3,NEW,Large 7Up,43833,Success
-Scenario 3,NEW,1.25L 7Up,43834,Success
-Scenario 3,NEW,Regular Mountain Dew,43835,Success
-Scenario 3,NEW,Regular Mountain Dew,43851,Success
-Scenario 3,NEW,Large Mountain Dew,43836,Success
-Scenario 3,NEW,Large Mountain Dew,43852,Success
-Scenario 3,NEW,1.25L Mountain Dew,43837,Success
-Scenario 3,NEW,Regular Solo,43838,Success
-Scenario 3,NEW,Regular Solo,43853,Success
-Scenario 3,NEW,Large Solo,43839,Success
-Scenario 3,NEW,Large Solo,43854,Success
-Scenario 3,NEW,1.25L Solo,43840,Success
-Scenario 3,NEW,Regular Sunkist No Sugar,43841,Success
-Scenario 3,NEW,Large Sunkist No Sugar,43842,Success
-Scenario 3,NEW,1.25L Sunkist No Sugar,43843,Success
-Scenario 3,NEW,Regular Sunkist,43845,Success
-Scenario 3,NEW,Large Sunkist,43846,Success
-Scenario 3,NEW,Bottled Water,33219,Success
-Scenario 3,NEW,Sparkling Water,33220,Success
-Scenario 3,NEW,Apple Juice,33221,Success
-Scenario 3,NEW,Lipton Peach Ice Tea,33222,Success
-Scenario 3,NEW,Iced Mocha Koffee Krunch,33231,Success
-Scenario 3,NEW,Iced Caramel Koffee Krunch,33232,Success
-Scenario 3,NEW,Iced Latte,33225,Success
-Scenario 3,NEW,Watermelon Boba Refresher~,33226,Success
-Scenario 3,NEW,Cherry Boba Refresher~,33227,Success
-Scenario 3,NEW,Chocolate Krunch Shake,33229,Success
-Scenario 3,NEW,Caramel Krunch Shake,33228,Success
-Scenario 3,NEW,Coconut Mango Krunch Shake,33230,Success
-Scenario 3,NEW,Sparkling Raspberry Lemonade~,33224,Success
-Scenario 3,NEW,Spicy Mango Lemonade~,33223,Success
-Scenario 4,NEW,1 Piece of Chicken,32922,Success
-Scenario 4,NEW,6 Pieces of Chicken,32923,Success
-Scenario 4,NEW,21 Pieces of Chicken,32924,Success
-Scenario 4,NEW,Original Crispy Fillet Piece,32929,Success
-Scenario 4,NEW,3 Pieces Hot & Crispy™,32930,Success
-Scenario 4,NEW,"6 Pieces Hot & Crispy™ ",32931,Success
-Scenario 4,NEW,"3 Pieces Combo Hot & Crispy™ ",32960,Success
-Scenario 4,NEW,"6 Pieces Combo Hot & Crispy™ ",32961,Success
-Scenario 4,NEW,Zinger® Burger Box Hot & Crispy™,32966,Success
-Scenario 4,NEW,Zinger® Burger Box Hot & Crispy™,33017,Success
-Scenario 4,NEW,"Zinger Stacker® Burger Box Hot & Crispy™ ",32967,Success
-Scenario 4,NEW,"Zinger Stacker® Burger Box Hot & Crispy™ ",33018,Success
-Scenario 4,NEW,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32968,Success
-Scenario 4,NEW,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",33019,Success
-Scenario 4,NEW,Original Crunch Twister® Box,32969,Success
-Scenario 4,NEW,Original Crunch Twister® Box,33020,Success
-Scenario 4,NEW,Zinger® Crunch Twister® Box,32970,Success
-Scenario 4,NEW,Zinger® Crunch Twister® Box,33021,Success
-Scenario 4,NEW,Original Crispy Burger Box,32971,Success
-Scenario 4,NEW,Original Crispy Burger Box,33011,Success
-Scenario 4,NEW,Original Crispy Bacon & Cheese Burger Box,32972,Success
-Scenario 4,NEW,Original Crispy Bacon & Cheese Burger Box,33012,Success
-Scenario 4,NEW,Original Crispy BBQ Bacon Stacker® Burger Box,32973,Success
-Scenario 4,NEW,Original Crispy BBQ Bacon Stacker® Burger Box,33013,Success
-Scenario 4,NEW,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32974,Success
-Scenario 4,NEW,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",33022,Success
-Scenario 4,NEW,3 Piece Box,32975,Success
-Scenario 4,NEW,3 Piece Box,33014,Success
-Scenario 4,NEW,Original Tenders™ Box,32976,Success
-Scenario 4,NEW,Original Tenders™ Box,33015,Success
-Scenario 4,NEW,Favourites Box,32977,Success
-Scenario 4,NEW,Favourites Box,33016,Success
-Scenario 4,NEW,Family Feast,32978,Success
-Scenario 4,NEW,Delivery Feast,32980,Success
-Scenario 4,NEW,Delivery Feast,33211,Success
-Scenario 4,NEW,Burger Feast,32981,Success
-Scenario 4,NEW,Burger Feast,33210,Success
-Scenario 4,NEW,Value Feast,32982,Success
-Scenario 4,NEW,Value Feast,33009,Success
-Scenario 4,NEW,21 Pieces of Chicken - SA/WA,33001,Success
-Scenario 4,NEW,Giant Feast,33104,Success
-Scenario 4,NEW,NEW Mega Chicken Box,33105,Success
-Scenario 4,NEW,NEW Mega Chicken Box,33212,Success
-Scenario 4,NEW,NEW Mega Burger Feast,33206,Success
-Scenario 4,NEW,Giant Feast - SA/WA,33208,Success
-Scenario 4,NEW,3 Pieces of Chicken,33214,Success
-Scenario 4,NEW,3 Piece Combo,33215,Success
-Scenario 4,NEW,My Bucket,33238,Success
-Scenario 4,NEW,Family Feast,33006,Success
-Scenario 4,NEW,Giant Feast - SB,33207,Success
-Scenario 4,NEW,Giant Feast - SB SA,33209,Success
-Scenario 4,NEW,Double Tender™ Burger Box,33213,Success
-Scenario 4,NEW,Zinger® Burger,32879,Success
-Scenario 4,NEW,Zinger® Burger Combo,32880,Success
-Scenario 4,NEW,Double Tender™ Burger,32886,Success
-Scenario 4,NEW,Zinger® Bacon & Cheese Burger,32887,Success
-Scenario 4,NEW,Zinger® Crunch Burger™,32888,Success
-Scenario 4,NEW,Original Crispy Burger,32889,Success
-Scenario 4,NEW,Original Crispy Bacon & Cheese Burger,32890,Success
-Scenario 4,NEW,Original Crispy BBQ Bacon Stacker® Burger,32891,Success
-Scenario 4,NEW,Zinger Stacker® Burger,32892,Success
-Scenario 4,NEW,3 Wicked Wings®,32925,Success
-Scenario 4,NEW,6 Wicked Wings®,32926,Success
-Scenario 4,NEW,10 Wicked Wings®,32927,Success
-Scenario 4,NEW,Zinger® Fillet Piece,32928,Success
-Scenario 4,NEW,3 Original Tenders™,32932,Success
-Scenario 4,NEW,5 Original Tenders™,32933,Success
-Scenario 4,NEW,6 Nuggets,32934,Success
-Scenario 4,NEW,10 Nuggets,32935,Success
-Scenario 4,NEW,Regular Popcorn Chicken®,32936,Success
-Scenario 4,NEW,Maxi Popcorn Chicken®,32937,Success
-Scenario 4,NEW,Snack Popcorn Chicken®,32938,Success
-Scenario 4,NEW,Double Tender™ Burger Combo,32939,Success
-Scenario 4,NEW,Zinger Stacker® Burger Combo,32940,Success
-Scenario 4,NEW,Original Crispy Burger Combo,32941,Success
-Scenario 4,NEW,Original Crispy Bacon & Cheese Burger Combo,32943,Success
-Scenario 4,NEW,Original Crispy BBQ Bacon Stacker® Burger Combo,32944,Success
-Scenario 4,NEW,Zinger® Bacon & Cheese Burger Combo,32945,Success
-Scenario 4,NEW,Regular Popcorn Chicken® Combo,32954,Success
-Scenario 4,NEW,Maxi Popcorn Chicken® Combo,32955,Success
-Scenario 4,NEW,6 Wicked Wings® Combo,32956,Success
-Scenario 4,NEW,Snack Popcorn Chicken® Combo,32957,Success
-Scenario 4,NEW,10 Wicked Wings® Combo,32958,Success
-Scenario 4,NEW,3 Wicked Wings® Combo,32959,Success
-Scenario 4,NEW,6 Nugget Combo,32962,Success
-Scenario 4,NEW,10 Nugget Combo,32963,Success
-Scenario 4,NEW,3 Original Tenders™ Combo,32964,Success
-Scenario 4,NEW,5 Original Tenders™ Combo,32965,Success
-Scenario 4,NEW,Original Pepper Mayo Slider,32897,Success
-Scenario 4,NEW,Original BBQ Slider,32898,Success
-Scenario 4,NEW,Original Crunch Twister® ,32899,Success
-Scenario 4,NEW,Zinger® Crunch Twister®  ,32900,Success
-Scenario 4,NEW,"Original Supercharged Slider ",32901,Success
-Scenario 4,NEW,Regular Chips,32902,Success
-Scenario 4,NEW,Large Chips,32903,Success
-Scenario 4,NEW,Regular Potato & Gravy,32904,Success
-Scenario 4,NEW,Large Potato & Gravy,32905,Success
-Scenario 4,NEW,Regular Coleslaw,32906,Success
-Scenario 4,NEW,Large Coleslaw,32907,Success
-Scenario 4,NEW,Regular Gravy,32908,Success
-Scenario 4,NEW,Crunchy Jalapeno Slaw,32909,Success
-Scenario 4,NEW,Dinner Roll,32910,Success
-Scenario 4,NEW,Double Chocolate Mousse,32911,Success
-Scenario 4,NEW,Original Tenders™ Crunch Bowl,32912,Success
-Scenario 4,NEW,Zinger® Crunch Bowl,32913,Success
-Scenario 4,NEW,Go Bucket® 2 Wicked Wings®,32914,Success
-Scenario 4,NEW,Go Bucket® 1 Original Tender™,32915,Success
-Scenario 4,NEW,Go Bucket® Popcorn Chicken®,32916,Success
-Scenario 4,NEW,Go Bucket® 3 Nuggets,32917,Success
-Scenario 4,NEW,"Zinger® Crunch Burger™ Combo ",32942,Success
-Scenario 4,NEW,Original Crunch Twister® Combo,32946,Success
-Scenario 4,NEW,"Zinger® Crunch Twister® Combo ",32947,Success
-Scenario 4,NEW,Zinger® Crunch Bowl Combo,32948,Success
-Scenario 4,NEW,Original Tenders™ Crunch Bowl Combo,32949,Success
-Scenario 4,NEW,Kids Meal with BBQ Slider,32950,Success
-Scenario 4,NEW,Kids Meal with Nuggets,32951,Success
-Scenario 4,NEW,Kids Meal with Snack Popcorn Chicken®,32952,Success
-Scenario 4,NEW,Go Bucket® Hot & Crispy™,33216,Success
-Scenario 4,NEW,4 Dipping Sauces,33218,Success
-Scenario 4,NEW,BBQ Dip,43819,Success
-Scenario 4,NEW,Supercharged Dip,43820,Success
-Scenario 4,NEW,Aioli Dip,43823,Success
-Scenario 4,NEW,Jalapeno Mayo Dip,44003,Success
-Scenario 4,NEW,Large Coleslaw(4x110g),33217,Success
-Scenario 4,NEW,Sweet & Sour Dip,43822,Success
-Scenario 4,NEW,Sweet Chilli Dip,43821,Success
-Scenario 4,NEW,Tomato Dip,43810,Success
-Scenario 4,NEW,Regular Pepsi Max^,43829,Success
-Scenario 4,NEW,Large Pepsi Max^,43830,Success
-Scenario 4,NEW,Large Pepsi Max^,43848,Success
-Scenario 4,NEW,1.25L Pepsi Max^,43831,Success
-Scenario 4,NEW,Regular Pepsi^,43811,Success
-Scenario 4,NEW,Regular Pepsi^,43849,Success
-Scenario 4,NEW,LargePepsi^,43827,Success
-Scenario 4,NEW,LargePepsi^,43850,Success
-Scenario 4,NEW,1.25L Pepsi^,43828,Success
-Scenario 4,NEW,Regular 7Up,43832,Success
-Scenario 4,NEW,Large 7Up,43833,Success
-Scenario 4,NEW,1.25L 7Up,43834,Success
-Scenario 4,NEW,Regular Mountain Dew,43835,Success
-Scenario 4,NEW,Regular Mountain Dew,43851,Success
-Scenario 4,NEW,Large Mountain Dew,43836,Success
-Scenario 4,NEW,Large Mountain Dew,43852,Success
-Scenario 4,NEW,1.25L Mountain Dew,43837,Success
-Scenario 4,NEW,Regular Solo,43838,Success
-Scenario 4,NEW,Regular Solo,43853,Success
-Scenario 4,NEW,Large Solo,43839,Success
-Scenario 4,NEW,Large Solo,43854,Success
-Scenario 4,NEW,1.25L Solo,43840,Success
-Scenario 4,NEW,Regular Sunkist No Sugar,43841,Success
-Scenario 4,NEW,Large Sunkist No Sugar,43842,Success
-Scenario 4,NEW,1.25L Sunkist No Sugar,43843,Success
-Scenario 4,NEW,Regular Sunkist,43845,Success
-Scenario 4,NEW,Large Sunkist,43846,Success
-Scenario 4,NEW,Bottled Water,33219,Success
-Scenario 4,NEW,Sparkling Water,33220,Success
-Scenario 4,NEW,Apple Juice,33221,Success
-Scenario 4,NEW,Lipton Peach Ice Tea,33222,Success
-Scenario 4,NEW,Iced Mocha Koffee Krunch,33231,Success
-Scenario 4,NEW,Iced Caramel Koffee Krunch,33232,Success
-Scenario 4,NEW,Iced Latte,33225,Success
-Scenario 4,NEW,Watermelon Boba Refresher~,33226,Success
-Scenario 4,NEW,Cherry Boba Refresher~,33227,Success
-Scenario 4,NEW,Chocolate Krunch Shake,33229,Success
-Scenario 4,NEW,Caramel Krunch Shake,33228,Success
-Scenario 4,NEW,Coconut Mango Krunch Shake,33230,Success
-Scenario 4,NEW,Sparkling Raspberry Lemonade~,33224,Success
-Scenario 4,NEW,Spicy Mango Lemonade~,33223,Success
-Scenario 5,OLD,1 Piece of Chicken,30579,Success
-Scenario 5,OLD,21 Pieces of Chicken,30580,Success
-Scenario 5,OLD,Family Feast,30680,Success
-Scenario 5,OLD,Original Tenders™ Box,30689,Success
-Scenario 5,OLD,Original Tenders™ Box,31051,Success
-Scenario 5,OLD,3 Piece Box,30731,Success
-Scenario 5,OLD,3 Piece Box,31105,Success
-Scenario 5,OLD,Favourites Box,31551,Success
-Scenario 5,OLD,Favourites Box,32157,Success
-Scenario 5,OLD,6 Pieces of Chicken,31642,Success
-Scenario 5,OLD,My Bucket,31836,Success
-Scenario 5,OLD,"6 Pieces Hot & Crispy™ ",32164,Success
-Scenario 5,OLD,3 Pieces Hot & Crispy™,32170,Success
-Scenario 5,OLD,"3 Pieces Combo Hot & Crispy™ ",32171,Success
-Scenario 5,OLD,"6 Pieces Combo Hot & Crispy™ ",32172,Success
-Scenario 5,OLD,Zinger® Burger Box Hot & Crispy™,32190,Success
-Scenario 5,OLD,Zinger® Burger Box Hot & Crispy™,32374,Success
-Scenario 5,OLD,"Zinger Stacker® Burger Box Hot & Crispy™ ",32208,Success
-Scenario 5,OLD,"Zinger Stacker® Burger Box Hot & Crispy™ ",32211,Success
-Scenario 5,OLD,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32209,Success
-Scenario 5,OLD,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32212,Success
-Scenario 5,OLD,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32210,Success
-Scenario 5,OLD,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32213,Success
-Scenario 5,OLD,Original Crunch Twister® Box,32216,Success
-Scenario 5,OLD,Original Crunch Twister® Box,32218,Success
-Scenario 5,OLD,Zinger® Crunch Twister® Box,32217,Success
-Scenario 5,OLD,Zinger® Crunch Twister® Box,32219,Success
-Scenario 5,OLD,Value Feast,32443,Success
-Scenario 5,OLD,Value Feast,32684,Success
-Scenario 5,OLD,Giant Feast,32444,Success
-Scenario 5,OLD,Delivery Feast,32445,Success
-Scenario 5,OLD,Delivery Feast,32701,Success
-Scenario 5,OLD,Original Crispy Burger Box,32550,Success
-Scenario 5,OLD,Original Crispy Burger Box,32553,Success
-Scenario 5,OLD,Original Crispy Bacon & Cheese Burger Box,32551,Success
-Scenario 5,OLD,Original Crispy Bacon & Cheese Burger Box,32554,Success
-Scenario 5,OLD,Original Crispy BBQ Bacon Stacker® Burger Box,32552,Success
-Scenario 5,OLD,Original Crispy BBQ Bacon Stacker® Burger Box,32555,Success
-Scenario 5,OLD,Original Crispy Fillet Piece,32559,Success
-Scenario 5,OLD,Burger Feast,32561,Success
-Scenario 5,OLD,Burger Feast,32562,Success
-Scenario 5,OLD,3 Piece Combo,32804,Success
-Scenario 5,OLD,NEW Mega Burger Feast,32884,Success
-Scenario 5,OLD,21 Pieces of Chicken - SA/WA,32893,Success
-Scenario 5,OLD,Giant Feast - SA/WA,33069,Success
-Scenario 5,OLD,NEW Mega Chicken Box,33076,Success
-Scenario 5,OLD,NEW Mega Chicken Box,33081,Success
-Scenario 5,OLD,3 Pieces of Chicken,33119,Success
-Scenario 5,OLD,Family Feast,31089,Success
-Scenario 5,OLD,Giant Feast - SB,32700,Success
-Scenario 5,OLD,Giant Feast - SB SA,32895,Success
-Scenario 5,OLD,Double Tender™ Burger Box,31712,Success
-Scenario 5,OLD,3 Wicked Wings®,30017,Success
-Scenario 5,OLD,Double Tender™ Burger,30577,Success
-Scenario 5,OLD,3 Original Tenders™,30583,Success
-Scenario 5,OLD,10 Wicked Wings®,30584,Success
-Scenario 5,OLD,6 Nuggets,30586,Success
-Scenario 5,OLD,Regular Popcorn Chicken®,30588,Success
-Scenario 5,OLD,Maxi Popcorn Chicken®,30589,Success
-Scenario 5,OLD,6 Wicked Wings®,30658,Success
-Scenario 5,OLD,Zinger® Burger Combo,30691,Success
-Scenario 5,OLD,5 Original Tenders™,30707,Success
-Scenario 5,OLD,3 Original Tenders™ Combo,30708,Success
-Scenario 5,OLD,6 Nugget Combo,30711,Success
-Scenario 5,OLD,10 Nuggets,30726,Success
-Scenario 5,OLD,10 Nugget Combo,30728,Success
-Scenario 5,OLD,Double Tender™ Burger Combo,30730,Success
-Scenario 5,OLD,Zinger® Fillet Piece,30800,Success
-Scenario 5,OLD,Zinger® Burger,31040,Success
-Scenario 5,OLD,Zinger Stacker® Burger,31041,Success
-Scenario 5,OLD,Zinger® Bacon & Cheese Burger,31291,Success
-Scenario 5,OLD,Zinger® Bacon & Cheese Burger Combo,31293,Success
-Scenario 5,OLD,3 Wicked Wings® Combo,31481,Success
-Scenario 5,OLD,6 Wicked Wings® Combo,31482,Success
-Scenario 5,OLD,Regular Popcorn Chicken® Combo,31698,Success
-Scenario 5,OLD,Maxi Popcorn Chicken® Combo,31699,Success
-Scenario 5,OLD,5 Original Tenders™ Combo,31700,Success
-Scenario 5,OLD,Zinger® Crunch Burger™,31887,Success
-Scenario 5,OLD,10 Wicked Wings® Combo,32062,Success
-Scenario 5,OLD,Zinger Stacker® Burger Combo,32432,Success
-Scenario 5,OLD,Snack Popcorn Chicken®,32467,Success
-Scenario 5,OLD,Snack Popcorn Chicken® Combo,32468,Success
-Scenario 5,OLD,Original Crispy Burger,32544,Success
-Scenario 5,OLD,Original Crispy Bacon & Cheese Burger,32545,Success
-Scenario 5,OLD,Original Crispy BBQ Bacon Stacker® Burger,32546,Success
-Scenario 5,OLD,Original Crispy Burger Combo,32547,Success
-Scenario 5,OLD,Original Crispy Bacon & Cheese Burger Combo,32548,Success
-Scenario 5,OLD,Original Crispy BBQ Bacon Stacker® Burger Combo,32549,Success
-Scenario 5,OLD,"Zinger® Crunch Burger™ Combo ",31900,Success
-Scenario 5,OLD,Zinger® Crunch Twister®  ,31888,Success
-Scenario 5,OLD,"Zinger® Crunch Twister® Combo ",32734,Success
-Scenario 5,OLD,Original Crunch Twister® ,31886,Success
-Scenario 5,OLD,Original Crunch Twister® Combo,31898,Success
-Scenario 5,OLD,Zinger® Crunch Bowl,31883,Success
-Scenario 5,OLD,Zinger® Crunch Bowl Combo,31916,Success
-Scenario 5,OLD,Original Tenders™ Crunch Bowl,31882,Success
-Scenario 5,OLD,Original Tenders™ Crunch Bowl Combo,31917,Success
-Scenario 5,OLD,Go Bucket® Hot & Crispy™,32677,Success
-Scenario 5,OLD,Go Bucket® Popcorn Chicken®,30090,Success
-Scenario 5,OLD,Go Bucket® 1 Original Tender™,30366,Success
-Scenario 5,OLD,Go Bucket® 2 Wicked Wings®,30089,Success
-Scenario 5,OLD,Go Bucket® 3 Nuggets,30092,Success
-Scenario 5,OLD,Original Pepper Mayo Slider,30713,Success
-Scenario 5,OLD,Original BBQ Slider,30714,Success
-Scenario 5,OLD,"Original Supercharged Slider ",31101,Success
-Scenario 5,OLD,Kids Meal with BBQ Slider,32367,Success
-Scenario 5,OLD,Kids Meal with Nuggets,32368,Success
-Scenario 5,OLD,Kids Meal with Snack Popcorn Chicken®,32369,Success
-Scenario 5,OLD,Large Chips,31005,Success
-Scenario 5,OLD,Regular Chips,30995,Success
-Scenario 5,OLD,Double Chocolate Mousse,32301,Success
-Scenario 5,OLD,Crunchy Jalapeno Slaw,31884,Success
-Scenario 5,OLD,Large Potato & Gravy,30095,Success
-Scenario 5,OLD,Regular Potato & Gravy,30057,Success
-Scenario 5,OLD,Large Coleslaw,30096,Success
-Scenario 5,OLD,Regular Coleslaw,30053,Success
-Scenario 5,OLD,Large Coleslaw(4x110g),31006,Success
-Scenario 5,OLD,Regular Gravy,30052,Success
-Scenario 5,OLD,Dinner Roll,30054,Success
-Scenario 5,OLD,Dinner Roll,31007,Success
-Scenario 5,OLD,4 Dipping Sauces,33122,Success
-Scenario 5,OLD,Aioli Dip,41092,Not Found
-Scenario 5,OLD,BBQ Dip,41088,Not Found
-Scenario 5,OLD,Jalapeno Mayo Dip,43941,Not Found
-Scenario 5,OLD,Supercharged Dip,41089,Not Found
-Scenario 5,OLD,Sweet & Sour Dip,41091,Not Found
-Scenario 5,OLD,Sweet Chilli Dip,41090,Not Found
-Scenario 5,OLD,Tomato Dip,41087,Not Found
-Scenario 5,OLD,Regular Pepsi Max^,40925,Not Found
-Scenario 5,OLD,Regular Pepsi Max^,41708,Not Found
-Scenario 5,OLD,Large Pepsi Max^,40926,Not Found
-Scenario 5,OLD,Large Pepsi Max^,41727,Not Found
-Scenario 5,OLD,1.25L Pepsi Max^,40927,Not Found
-Scenario 5,OLD,Regular Pepsi^,40928,Not Found
-Scenario 5,OLD,Regular Pepsi^,41703,Not Found
-Scenario 5,OLD,LargePepsi^,40929,Not Found
-Scenario 5,OLD,LargePepsi^,41728,Not Found
-Scenario 5,OLD,1.25L Pepsi^,40930,Not Found
-Scenario 5,OLD,Regular 7Up,40931,Not Found
-Scenario 5,OLD,Large 7Up,40932,Not Found
-Scenario 5,OLD,1.25L 7Up,40933,Not Found
-Scenario 5,OLD,Regular Mountain Dew,40934,Not Found
-Scenario 5,OLD,Regular Mountain Dew,41704,Not Found
-Scenario 5,OLD,Large Mountain Dew,40935,Not Found
-Scenario 5,OLD,Large Mountain Dew,41729,Not Found
-Scenario 5,OLD,1.25L Mountain Dew,40936,Not Found
-Scenario 5,OLD,Regular Solo,40937,Not Found
-Scenario 5,OLD,Regular Solo,41705,Not Found
-Scenario 5,OLD,Large Solo,40938,Not Found
-Scenario 5,OLD,Large Solo,41730,Not Found
-Scenario 5,OLD,1.25L Solo,40939,Not Found
-Scenario 5,OLD,Regular Sunkist No Sugar,43243,Not Found
-Scenario 5,OLD,Large Sunkist No Sugar,43244,Not Found
-Scenario 5,OLD,1.25L Sunkist No Sugar,43245,Not Found
-Scenario 5,OLD,Regular Sunkist,40940,Not Found
-Scenario 5,OLD,Large Sunkist,40942,Not Found
-Scenario 5,OLD,Bottled Water,30538,Success
-Scenario 5,OLD,Bottled Water,31004,Success
-Scenario 5,OLD,Sparkling Water,32256,Success
-Scenario 5,OLD,Apple Juice,32762,Success
-Scenario 5,OLD,Lipton Peach Ice Tea,32860,Success
-Scenario 5,OLD,Iced Mocha Koffee Krunch,33092,Success
-Scenario 5,OLD,Iced Caramel Koffee Krunch,33093,Success
-Scenario 5,OLD,Iced Latte,33118,Success
-Scenario 5,OLD,Watermelon Boba Refresher~,33087,Success
-Scenario 5,OLD,Cherry Boba Refresher~,33088,Success
-Scenario 5,OLD,Chocolate Krunch Shake,33090,Success
-Scenario 5,OLD,Caramel Krunch Shake,33089,Success
-Scenario 5,OLD,Coconut Mango Krunch Shake,33091,Success
-Scenario 5,OLD,Sparkling Raspberry Lemonade~,33085,Success
-Scenario 5,OLD,Spicy Mango Lemonade~,33084,Success
-Scenario 6,OLD,1 Piece of Chicken,30579,Success
-Scenario 6,OLD,21 Pieces of Chicken,30580,Success
-Scenario 6,OLD,Family Feast,30680,Success
-Scenario 6,OLD,Original Tenders™ Box,30689,Success
-Scenario 6,OLD,Original Tenders™ Box,31051,Success
-Scenario 6,OLD,3 Piece Box,30731,Success
-Scenario 6,OLD,3 Piece Box,31105,Success
-Scenario 6,OLD,Favourites Box,31551,Success
-Scenario 6,OLD,Favourites Box,32157,Success
-Scenario 6,OLD,6 Pieces of Chicken,31642,Success
-Scenario 6,OLD,My Bucket,31836,Success
-Scenario 6,OLD,"6 Pieces Hot & Crispy™ ",32164,Success
-Scenario 6,OLD,3 Pieces Hot & Crispy™,32170,Success
-Scenario 6,OLD,"3 Pieces Combo Hot & Crispy™ ",32171,Success
-Scenario 6,OLD,"6 Pieces Combo Hot & Crispy™ ",32172,Success
-Scenario 6,OLD,Zinger® Burger Box Hot & Crispy™,32190,Success
-Scenario 6,OLD,Zinger® Burger Box Hot & Crispy™,32374,Success
-Scenario 6,OLD,"Zinger Stacker® Burger Box Hot & Crispy™ ",32208,Success
-Scenario 6,OLD,"Zinger Stacker® Burger Box Hot & Crispy™ ",32211,Success
-Scenario 6,OLD,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32209,Success
-Scenario 6,OLD,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32212,Success
-Scenario 6,OLD,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32210,Success
-Scenario 6,OLD,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32213,Success
-Scenario 6,OLD,Original Crunch Twister® Box,32216,Success
-Scenario 6,OLD,Original Crunch Twister® Box,32218,Success
-Scenario 6,OLD,Zinger® Crunch Twister® Box,32217,Success
-Scenario 6,OLD,Zinger® Crunch Twister® Box,32219,Success
-Scenario 6,OLD,Value Feast,32443,Success
-Scenario 6,OLD,Value Feast,32684,Success
-Scenario 6,OLD,Giant Feast,32444,Success
-Scenario 6,OLD,Delivery Feast,32445,Success
-Scenario 6,OLD,Delivery Feast,32701,Success
-Scenario 6,OLD,Original Crispy Burger Box,32550,Success
-Scenario 6,OLD,Original Crispy Burger Box,32553,Success
-Scenario 6,OLD,Original Crispy Bacon & Cheese Burger Box,32551,Success
-Scenario 6,OLD,Original Crispy Bacon & Cheese Burger Box,32554,Success
-Scenario 6,OLD,Original Crispy BBQ Bacon Stacker® Burger Box,32552,Success
-Scenario 6,OLD,Original Crispy BBQ Bacon Stacker® Burger Box,32555,Success
-Scenario 6,OLD,Original Crispy Fillet Piece,32559,Success
-Scenario 6,OLD,Burger Feast,32561,Success
-Scenario 6,OLD,Burger Feast,32562,Success
-Scenario 6,OLD,3 Piece Combo,32804,Success
-Scenario 6,OLD,NEW Mega Burger Feast,32884,Success
-Scenario 6,OLD,21 Pieces of Chicken - SA/WA,32893,Success
-Scenario 6,OLD,Giant Feast - SA/WA,33069,Success
-Scenario 6,OLD,NEW Mega Chicken Box,33076,Success
-Scenario 6,OLD,NEW Mega Chicken Box,33081,Success
-Scenario 6,OLD,3 Pieces of Chicken,33119,Success
-Scenario 6,OLD,Family Feast,31089,Success
-Scenario 6,OLD,Giant Feast - SB,32700,Success
-Scenario 6,OLD,Giant Feast - SB SA,32895,Success
-Scenario 6,OLD,Double Tender™ Burger Box,31712,Success
-Scenario 6,OLD,3 Wicked Wings®,30017,Success
-Scenario 6,OLD,Double Tender™ Burger,30577,Success
-Scenario 6,OLD,3 Original Tenders™,30583,Success
-Scenario 6,OLD,10 Wicked Wings®,30584,Success
-Scenario 6,OLD,6 Nuggets,30586,Success
-Scenario 6,OLD,Regular Popcorn Chicken®,30588,Success
-Scenario 6,OLD,Maxi Popcorn Chicken®,30589,Success
-Scenario 6,OLD,6 Wicked Wings®,30658,Success
-Scenario 6,OLD,Zinger® Burger Combo,30691,Success
-Scenario 6,OLD,5 Original Tenders™,30707,Success
-Scenario 6,OLD,3 Original Tenders™ Combo,30708,Success
-Scenario 6,OLD,6 Nugget Combo,30711,Success
-Scenario 6,OLD,10 Nuggets,30726,Success
-Scenario 6,OLD,10 Nugget Combo,30728,Success
-Scenario 6,OLD,Double Tender™ Burger Combo,30730,Success
-Scenario 6,OLD,Zinger® Fillet Piece,30800,Success
-Scenario 6,OLD,Zinger® Burger,31040,Success
-Scenario 6,OLD,Zinger Stacker® Burger,31041,Success
-Scenario 6,OLD,Zinger® Bacon & Cheese Burger,31291,Success
-Scenario 6,OLD,Zinger® Bacon & Cheese Burger Combo,31293,Success
-Scenario 6,OLD,3 Wicked Wings® Combo,31481,Success
-Scenario 6,OLD,6 Wicked Wings® Combo,31482,Success
-Scenario 6,OLD,Regular Popcorn Chicken® Combo,31698,Success
-Scenario 6,OLD,Maxi Popcorn Chicken® Combo,31699,Success
-Scenario 6,OLD,5 Original Tenders™ Combo,31700,Success
-Scenario 6,OLD,Zinger® Crunch Burger™,31887,Success
-Scenario 6,OLD,10 Wicked Wings® Combo,32062,Success
-Scenario 6,OLD,Zinger Stacker® Burger Combo,32432,Success
-Scenario 6,OLD,Snack Popcorn Chicken®,32467,Success
-Scenario 6,OLD,Snack Popcorn Chicken® Combo,32468,Success
-Scenario 6,OLD,Original Crispy Burger,32544,Success
-Scenario 6,OLD,Original Crispy Bacon & Cheese Burger,32545,Success
-Scenario 6,OLD,Original Crispy BBQ Bacon Stacker® Burger,32546,Success
-Scenario 6,OLD,Original Crispy Burger Combo,32547,Success
-Scenario 6,OLD,Original Crispy Bacon & Cheese Burger Combo,32548,Success
-Scenario 6,OLD,Original Crispy BBQ Bacon Stacker® Burger Combo,32549,Success
-Scenario 6,OLD,"Zinger® Crunch Burger™ Combo ",31900,Success
-Scenario 6,OLD,Zinger® Crunch Twister®  ,31888,Success
-Scenario 6,OLD,"Zinger® Crunch Twister® Combo ",32734,Success
-Scenario 6,OLD,Original Crunch Twister® ,31886,Success
-Scenario 6,OLD,Original Crunch Twister® Combo,31898,Success
-Scenario 6,OLD,Zinger® Crunch Bowl,31883,Success
-Scenario 6,OLD,Zinger® Crunch Bowl Combo,31916,Success
-Scenario 6,OLD,Original Tenders™ Crunch Bowl,31882,Success
-Scenario 6,OLD,Original Tenders™ Crunch Bowl Combo,31917,Success
-Scenario 6,OLD,Go Bucket® Hot & Crispy™,32677,Success
-Scenario 6,OLD,Go Bucket® Popcorn Chicken®,30090,Success
-Scenario 6,OLD,Go Bucket® 1 Original Tender™,30366,Success
-Scenario 6,OLD,Go Bucket® 2 Wicked Wings®,30089,Success
-Scenario 6,OLD,Go Bucket® 3 Nuggets,30092,Success
-Scenario 6,OLD,Original Pepper Mayo Slider,30713,Success
-Scenario 6,OLD,Original BBQ Slider,30714,Success
-Scenario 6,OLD,"Original Supercharged Slider ",31101,Success
-Scenario 6,OLD,Kids Meal with BBQ Slider,32367,Success
-Scenario 6,OLD,Kids Meal with Nuggets,32368,Success
-Scenario 6,OLD,Kids Meal with Snack Popcorn Chicken®,32369,Success
-Scenario 6,OLD,Large Chips,31005,Success
-Scenario 6,OLD,Regular Chips,30995,Success
-Scenario 6,OLD,Double Chocolate Mousse,32301,Success
-Scenario 6,OLD,Crunchy Jalapeno Slaw,31884,Success
-Scenario 6,OLD,Large Potato & Gravy,30095,Success
-Scenario 6,OLD,Regular Potato & Gravy,30057,Success
-Scenario 6,OLD,Large Coleslaw,30096,Success
-Scenario 6,OLD,Regular Coleslaw,30053,Success
-Scenario 6,OLD,Large Coleslaw(4x110g),31006,Success
-Scenario 6,OLD,Regular Gravy,30052,Success
-Scenario 6,OLD,Dinner Roll,30054,Success
-Scenario 6,OLD,Dinner Roll,31007,Success
-Scenario 6,OLD,4 Dipping Sauces,33122,Success
-Scenario 6,OLD,Aioli Dip,41092,Success
-Scenario 6,OLD,BBQ Dip,41088,Success
-Scenario 6,OLD,Jalapeno Mayo Dip,43941,Success
-Scenario 6,OLD,Supercharged Dip,41089,Success
-Scenario 6,OLD,Sweet & Sour Dip,41091,Success
-Scenario 6,OLD,Sweet Chilli Dip,41090,Success
-Scenario 6,OLD,Tomato Dip,41087,Success
-Scenario 6,OLD,Regular Pepsi Max^,40925,Success
-Scenario 6,OLD,Regular Pepsi Max^,41708,Success
-Scenario 6,OLD,Large Pepsi Max^,40926,Success
-Scenario 6,OLD,Large Pepsi Max^,41727,Success
-Scenario 6,OLD,1.25L Pepsi Max^,40927,Success
-Scenario 6,OLD,Regular Pepsi^,40928,Success
-Scenario 6,OLD,Regular Pepsi^,41703,Success
-Scenario 6,OLD,LargePepsi^,40929,Success
-Scenario 6,OLD,LargePepsi^,41728,Success
-Scenario 6,OLD,1.25L Pepsi^,40930,Success
-Scenario 6,OLD,Regular 7Up,40931,Success
-Scenario 6,OLD,Large 7Up,40932,Success
-Scenario 6,OLD,1.25L 7Up,40933,Success
-Scenario 6,OLD,Regular Mountain Dew,40934,Success
-Scenario 6,OLD,Regular Mountain Dew,41704,Success
-Scenario 6,OLD,Large Mountain Dew,40935,Success
-Scenario 6,OLD,Large Mountain Dew,41729,Success
-Scenario 6,OLD,1.25L Mountain Dew,40936,Success
-Scenario 6,OLD,Regular Solo,40937,Success
-Scenario 6,OLD,Regular Solo,41705,Success
-Scenario 6,OLD,Large Solo,40938,Success
-Scenario 6,OLD,Large Solo,41730,Success
-Scenario 6,OLD,1.25L Solo,40939,Success
-Scenario 6,OLD,Regular Sunkist No Sugar,43243,Success
-Scenario 6,OLD,Large Sunkist No Sugar,43244,Success
-Scenario 6,OLD,1.25L Sunkist No Sugar,43245,Success
-Scenario 6,OLD,Regular Sunkist,40940,Success
-Scenario 6,OLD,Large Sunkist,40942,Success
-Scenario 6,OLD,Bottled Water,30538,Success
-Scenario 6,OLD,Bottled Water,31004,Success
-Scenario 6,OLD,Sparkling Water,32256,Success
-Scenario 6,OLD,Apple Juice,32762,Success
-Scenario 6,OLD,Lipton Peach Ice Tea,32860,Success
-Scenario 6,OLD,Iced Mocha Koffee Krunch,33092,Success
-Scenario 6,OLD,Iced Caramel Koffee Krunch,33093,Success
-Scenario 6,OLD,Iced Latte,33118,Success
-Scenario 6,OLD,Watermelon Boba Refresher~,33087,Success
-Scenario 6,OLD,Cherry Boba Refresher~,33088,Success
-Scenario 6,OLD,Chocolate Krunch Shake,33090,Success
-Scenario 6,OLD,Caramel Krunch Shake,33089,Success
-Scenario 6,OLD,Coconut Mango Krunch Shake,33091,Success
-Scenario 6,OLD,Sparkling Raspberry Lemonade~,33085,Success
-Scenario 6,OLD,Spicy Mango Lemonade~,33084,Success
+﻿Scenario,Product,Product_Name,ProductID,Entity Found,Submit Status,MissingChannels
+Delivery 1,OLD Products,3 Wicked Wings®,30017,YES,Success,
+Delivery 1,OLD Products,Regular Gravy,30052,YES,Success,
+Delivery 1,OLD Products,Regular Coleslaw,30053,YES,Success,
+Delivery 1,OLD Products,Dinner Roll,30054,YES,Success,
+Delivery 1,OLD Products,Dinner Roll,31007,YES,Success,
+Delivery 1,OLD Products,Regular Potato & Gravy,30057,YES,Success,
+Delivery 1,OLD Products,Go Bucket® 2 Wicked Wings®,30089,YES,Success,
+Delivery 1,OLD Products,Go Bucket® Popcorn Chicken®,30090,YES,Success,
+Delivery 1,OLD Products,Go Bucket® 3 Nuggets,30092,YES,Success,
+Delivery 1,OLD Products,Large Potato & Gravy,30095,YES,Success,
+Delivery 1,OLD Products,Large Coleslaw,30096,YES,Success,
+Delivery 1,OLD Products,Go Bucket® 1 Original Tender™,30366,YES,Success,
+Delivery 1,OLD Products,Bottled Water,30538,YES,Success,
+Delivery 1,OLD Products,Bottled Water,31004,YES,Success,
+Delivery 1,OLD Products,Double Tender™ Burger,30577,YES,Success,
+Delivery 1,OLD Products,1 Piece of Chicken,30579,YES,Success,
+Delivery 1,OLD Products,21 Pieces of Chicken,30580,YES,Success,
+Delivery 1,OLD Products,3 Original Tenders™,30583,YES,Success,
+Delivery 1,OLD Products,10 Wicked Wings®,30584,YES,Success,
+Delivery 1,OLD Products,6 Nuggets,30586,YES,Success,
+Delivery 1,OLD Products,Regular Popcorn Chicken®,30588,YES,Success,
+Delivery 1,OLD Products,Maxi Popcorn Chicken®,30589,YES,Success,
+Delivery 1,OLD Products,6 Wicked Wings®,30658,YES,Success,
+Delivery 1,OLD Products,Family Feast,30680,YES,Success,
+Delivery 1,OLD Products,Original Tenders™ Box,30689,YES,Success,
+Delivery 1,OLD Products,Original Tenders™ Box,31051,YES,Success,
+Delivery 1,OLD Products,Zinger® Burger Combo,30691,YES,Success,
+Delivery 1,OLD Products,5 Original Tenders™,30707,YES,Success,
+Delivery 1,OLD Products,3 Original Tenders™ Combo,30708,YES,Success,
+Delivery 1,OLD Products,6 Nugget Combo,30711,YES,Success,
+Delivery 1,OLD Products,Original Pepper Mayo Slider,30713,YES,Success,
+Delivery 1,OLD Products,Original BBQ Slider,30714,YES,Success,
+Delivery 1,OLD Products,10 Nuggets,30726,YES,Success,
+Delivery 1,OLD Products,10 Nugget Combo,30728,YES,Success,
+Delivery 1,OLD Products,Double Tender™ Burger Combo,30730,YES,Success,
+Delivery 1,OLD Products,3 Piece Box,30731,YES,Success,
+Delivery 1,OLD Products,3 Piece Box,31105,YES,Success,
+Delivery 1,OLD Products,Zinger® Fillet Piece,30800,YES,Success,
+Delivery 1,OLD Products,Large Chips,31005,YES,Success,
+Delivery 1,OLD Products,Zinger® Burger,31040,YES,Success,
+Delivery 1,OLD Products,Zinger Stacker® Burger,31041,YES,Success,
+Delivery 1,OLD Products,"Original Supercharged Slider ",31101,YES,Success,
+Delivery 1,OLD Products,Zinger® Bacon & Cheese Burger,31291,YES,Success,
+Delivery 1,OLD Products,Zinger® Bacon & Cheese Burger Combo,31293,YES,Success,
+Delivery 1,OLD Products,3 Wicked Wings® Combo,31481,YES,Success,
+Delivery 1,OLD Products,6 Wicked Wings® Combo,31482,YES,Success,
+Delivery 1,OLD Products,Favourites Box,31551,YES,Success,
+Delivery 1,OLD Products,Favourites Box,32157,YES,Success,
+Delivery 1,OLD Products,6 Pieces of Chicken,31642,YES,Success,
+Delivery 1,OLD Products,Regular Popcorn Chicken® Combo,31698,YES,Success,
+Delivery 1,OLD Products,Maxi Popcorn Chicken® Combo,31699,YES,Success,
+Delivery 1,OLD Products,5 Original Tenders™ Combo,31700,YES,Success,
+Delivery 1,OLD Products,My Bucket,31836,YES,Success,
+Delivery 1,OLD Products,Original Tenders™ Crunch Bowl,31882,YES,Success,
+Delivery 1,OLD Products,Zinger® Crunch Bowl,31883,YES,Success,
+Delivery 1,OLD Products,Crunchy Jalapeno Slaw,31884,YES,Success,
+Delivery 1,OLD Products,Original Crunch Twister® ,31886,YES,Success,
+Delivery 1,OLD Products,Zinger® Crunch Burger™,31887,YES,Success,
+Delivery 1,OLD Products,Zinger® Crunch Twister®  ,31888,YES,Success,
+Delivery 1,OLD Products,Original Crunch Twister® Combo,31898,YES,Success,
+Delivery 1,OLD Products,"Zinger® Crunch Burger™ Combo ",31900,YES,Success,
+Delivery 1,OLD Products,Zinger® Crunch Bowl Combo,31916,YES,Success,
+Delivery 1,OLD Products,Original Tenders™ Crunch Bowl Combo,31917,YES,Success,
+Delivery 1,OLD Products,10 Wicked Wings® Combo,32062,YES,Success,
+Delivery 1,OLD Products,"6 Pieces Hot & Crispy™ ",32164,YES,Success,
+Delivery 1,OLD Products,3 Pieces Hot & Crispy™,32170,YES,Success,
+Delivery 1,OLD Products,"3 Pieces Combo Hot & Crispy™ ",32171,YES,Success,
+Delivery 1,OLD Products,"6 Pieces Combo Hot & Crispy™ ",32172,YES,Success,
+Delivery 1,OLD Products,Zinger® Burger Box Hot & Crispy™,32190,YES,Success,
+Delivery 1,OLD Products,Zinger® Burger Box Hot & Crispy™,32374,YES,Success,
+Delivery 1,OLD Products,"Zinger Stacker® Burger Box Hot & Crispy™ ",32208,YES,Success,
+Delivery 1,OLD Products,"Zinger Stacker® Burger Box Hot & Crispy™ ",32211,YES,Success,
+Delivery 1,OLD Products,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32209,YES,Success,
+Delivery 1,OLD Products,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32212,YES,Success,
+Delivery 1,OLD Products,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32210,YES,Success,
+Delivery 1,OLD Products,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32213,YES,Success,
+Delivery 1,OLD Products,Original Crunch Twister® Box,32216,YES,Success,
+Delivery 1,OLD Products,Original Crunch Twister® Box,32218,YES,Success,
+Delivery 1,OLD Products,Zinger® Crunch Twister® Box,32217,YES,Success,
+Delivery 1,OLD Products,Zinger® Crunch Twister® Box,32219,YES,Success,
+Delivery 1,OLD Products,Sparkling Water,32256,YES,Success,
+Delivery 1,OLD Products,Double Chocolate Mousse,32301,YES,Success,
+Delivery 1,OLD Products,Kids Meal with BBQ Slider,32367,YES,Success,
+Delivery 1,OLD Products,Kids Meal with Nuggets,32368,YES,Success,
+Delivery 1,OLD Products,Kids Meal with Snack Popcorn Chicken®,32369,YES,Success,
+Delivery 1,OLD Products,Zinger Stacker® Burger Combo,32432,YES,Success,
+Delivery 1,OLD Products,Value Feast,32443,YES,Success,
+Delivery 1,OLD Products,Value Feast,32684,YES,Success,
+Delivery 1,OLD Products,Giant Feast,32444,YES,Success,
+Delivery 1,OLD Products,Snack Popcorn Chicken®,32467,YES,Success,
+Delivery 1,OLD Products,Snack Popcorn Chicken® Combo,32468,YES,Success,
+Delivery 1,OLD Products,Original Crispy Burger,32544,YES,Success,
+Delivery 1,OLD Products,Original Crispy Bacon & Cheese Burger,32545,YES,Success,
+Delivery 1,OLD Products,Original Crispy BBQ Bacon Stacker® Burger,32546,YES,Success,
+Delivery 1,OLD Products,Original Crispy Burger Combo,32547,YES,Success,
+Delivery 1,OLD Products,Original Crispy Bacon & Cheese Burger Combo,32548,YES,Success,
+Delivery 1,OLD Products,Original Crispy BBQ Bacon Stacker® Burger Combo,32549,YES,Success,
+Delivery 1,OLD Products,Original Crispy Burger Box,32550,YES,Success,
+Delivery 1,OLD Products,Original Crispy Burger Box,32553,YES,Success,
+Delivery 1,OLD Products,Original Crispy Bacon & Cheese Burger Box,32551,YES,Success,
+Delivery 1,OLD Products,Original Crispy Bacon & Cheese Burger Box,32554,YES,Success,
+Delivery 1,OLD Products,Original Crispy BBQ Bacon Stacker® Burger Box,32552,YES,Success,
+Delivery 1,OLD Products,Original Crispy BBQ Bacon Stacker® Burger Box,32555,YES,Success,
+Delivery 1,OLD Products,Original Crispy Fillet Piece,32559,YES,Success,
+Delivery 1,OLD Products,Burger Feast,32561,YES,Success,
+Delivery 1,OLD Products,Burger Feast,32562,YES,Success,
+Delivery 1,OLD Products,Go Bucket® Hot & Crispy™,32677,YES,Success,
+Delivery 1,OLD Products,"Zinger® Crunch Twister® Combo ",32734,YES,Success,
+Delivery 1,OLD Products,Apple Juice,32762,YES,Success,
+Delivery 1,OLD Products,3 Piece Combo,32804,YES,Success,
+Delivery 1,OLD Products,Lipton Peach Ice Tea,32860,YES,Success,
+Delivery 1,OLD Products,NEW Mega Burger Feast,32884,YES,Success,
+Delivery 1,OLD Products,21 Pieces of Chicken - SA/WA,32893,YES,Success,
+Delivery 1,OLD Products,Giant Feast - SA/WA,33069,YES,Success,
+Delivery 1,OLD Products,NEW Mega Chicken Box,33076,YES,Success,
+Delivery 1,OLD Products,NEW Mega Chicken Box,33081,YES,Success,
+Delivery 1,OLD Products,Spicy Mango Lemonade~,33084,YES,Success,
+Delivery 1,OLD Products,Sparkling Raspberry Lemonade~,33085,YES,Success,
+Delivery 1,OLD Products,Watermelon Boba Refresher~,33087,YES,Success,
+Delivery 1,OLD Products,Cherry Boba Refresher~,33088,YES,Success,
+Delivery 1,OLD Products,Caramel Krunch Shake,33089,YES,Success,
+Delivery 1,OLD Products,Chocolate Krunch Shake,33090,YES,Success,
+Delivery 1,OLD Products,Coconut Mango Krunch Shake,33091,YES,Success,
+Delivery 1,OLD Products,Iced Mocha Koffee Krunch,33092,YES,Success,
+Delivery 1,OLD Products,Iced Caramel Koffee Krunch,33093,YES,Success,
+Delivery 1,OLD Products,Iced Latte,33118,YES,Success,
+Delivery 1,OLD Products,3 Pieces of Chicken,33119,YES,Success,
+Delivery 1,OLD Products,4 Dipping Sauces,33122,YES,Success,
+Delivery 1,OLD Products,Family Feast,31089,YES,Success,
+Delivery 1,OLD Products,Giant Feast - SB,32700,YES,Success,
+Delivery 1,OLD Products,Giant Feast - SB SA,32895,YES,Success,
+Delivery 1,OLD Products,Double Tender™ Burger Box,31712,YES,Success,
+Delivery 1,OLD Products,Large Coleslaw(4x110g),31006,YES,Success,
+Delivery 2,OLD Items,Regular Pepsi Max^,40925,YES,Success,
+Delivery 2,OLD Items,Regular Pepsi Max^,41708,YES,Success,
+Delivery 2,OLD Items,Large Pepsi Max^,40926,YES,Success,
+Delivery 2,OLD Items,Large Pepsi Max^,41727,YES,Success,
+Delivery 2,OLD Items,1.25L Pepsi Max^,40927,YES,Success,
+Delivery 2,OLD Items,Regular Pepsi^,40928,YES,Success,
+Delivery 2,OLD Items,Regular Pepsi^,41703,YES,Success,
+Delivery 2,OLD Items,LargePepsi^,40929,YES,Success,
+Delivery 2,OLD Items,LargePepsi^,41728,YES,Success,
+Delivery 2,OLD Items,1.25L Pepsi^,40930,YES,Success,
+Delivery 2,OLD Items,Regular 7Up,40931,YES,Success,
+Delivery 2,OLD Items,Large 7Up,40932,YES,Success,
+Delivery 2,OLD Items,1.25L 7Up,40933,YES,Success,
+Delivery 2,OLD Items,Regular Mountain Dew,40934,YES,Success,
+Delivery 2,OLD Items,Regular Mountain Dew,41704,YES,Success,
+Delivery 2,OLD Items,Large Mountain Dew,40935,YES,Success,
+Delivery 2,OLD Items,Large Mountain Dew,41729,YES,Success,
+Delivery 2,OLD Items,1.25L Mountain Dew,40936,YES,Success,
+Delivery 2,OLD Items,Regular Solo,40937,YES,Success,
+Delivery 2,OLD Items,Regular Solo,41705,YES,Success,
+Delivery 2,OLD Items,Large Solo,40938,YES,Success,
+Delivery 2,OLD Items,Large Solo,41730,YES,Success,
+Delivery 2,OLD Items,1.25L Solo,40939,YES,Success,
+Delivery 2,OLD Items,Regular Sunkist,40940,YES,Success,
+Delivery 2,OLD Items,Large Sunkist,40942,YES,Success,
+Delivery 2,OLD Items,Tomato Dip,41087,YES,Success,
+Delivery 2,OLD Items,BBQ Dip,41088,YES,Success,
+Delivery 2,OLD Items,Supercharged Dip,41089,YES,Success,
+Delivery 2,OLD Items,Sweet Chilli Dip,41090,YES,Success,
+Delivery 2,OLD Items,Sweet & Sour Dip,41091,YES,Success,
+Delivery 2,OLD Items,Aioli Dip,41092,YES,Success,
+Delivery 2,OLD Items,Regular Sunkist No Sugar,43243,YES,Success,
+Delivery 2,OLD Items,Large Sunkist No Sugar,43244,YES,Success,
+Delivery 2,OLD Items,1.25L Sunkist No Sugar,43245,YES,Success,
+Delivery 2,OLD Items,Jalapeno Mayo Dip,43941,YES,Success,
+Delivery 3,NEW products,Zinger® Burger,32879,YES,Success,
+Delivery 3,NEW products,Zinger® Burger Combo,32880,YES,Success,
+Delivery 3,NEW products,Double Tender™ Burger,32886,YES,Success,
+Delivery 3,NEW products,Zinger® Bacon & Cheese Burger,32887,YES,Success,
+Delivery 3,NEW products,Zinger® Crunch Burger™,32888,YES,Success,
+Delivery 3,NEW products,Original Crispy Burger,32889,YES,Success,
+Delivery 3,NEW products,Original Crispy Bacon & Cheese Burger,32890,YES,Success,
+Delivery 3,NEW products,Original Crispy BBQ Bacon Stacker® Burger,32891,YES,Success,
+Delivery 3,NEW products,Zinger Stacker® Burger,32892,YES,Success,
+Delivery 3,NEW products,Original Pepper Mayo Slider,32897,YES,Success,
+Delivery 3,NEW products,Original BBQ Slider,32898,YES,Success,
+Delivery 3,NEW products,Original Crunch Twister® ,32899,YES,Success,
+Delivery 3,NEW products,Zinger® Crunch Twister®  ,32900,YES,Success,
+Delivery 3,NEW products,"Original Supercharged Slider ",32901,YES,Success,
+Delivery 3,NEW products,Regular Potato & Gravy,32904,YES,Success,
+Delivery 3,NEW products,Large Potato & Gravy,32905,YES,Success,
+Delivery 3,NEW products,Regular Coleslaw,32906,YES,Success,
+Delivery 3,NEW products,Large Coleslaw,32907,YES,Success,
+Delivery 3,NEW products,Regular Gravy,32908,YES,Success,
+Delivery 3,NEW products,Crunchy Jalapeno Slaw,32909,YES,Success,
+Delivery 3,NEW products,Dinner Roll,32910,YES,Success,
+Delivery 3,NEW products,Double Chocolate Mousse,32911,YES,Success,
+Delivery 3,NEW products,Original Tenders™ Crunch Bowl,32912,YES,Success,
+Delivery 3,NEW products,Zinger® Crunch Bowl,32913,YES,Success,
+Delivery 3,NEW products,Go Bucket® 2 Wicked Wings®,32914,YES,Success,
+Delivery 3,NEW products,Go Bucket® 1 Original Tender™,32915,YES,Success,
+Delivery 3,NEW products,Go Bucket® Popcorn Chicken®,32916,YES,Success,
+Delivery 3,NEW products,Go Bucket® 3 Nuggets,32917,YES,Success,
+Delivery 3,NEW products,1 Piece of Chicken,32922,YES,Success,
+Delivery 3,NEW products,6 Pieces of Chicken,32923,YES,Success,
+Delivery 3,NEW products,21 Pieces of Chicken,32924,YES,Success,
+Delivery 3,NEW products,3 Wicked Wings®,32925,YES,Success,
+Delivery 3,NEW products,6 Wicked Wings®,32926,YES,Success,
+Delivery 3,NEW products,10 Wicked Wings®,32927,YES,Success,
+Delivery 3,NEW products,Zinger® Fillet Piece,32928,YES,Success,
+Delivery 3,NEW products,Original Crispy Fillet Piece,32929,YES,Success,
+Delivery 3,NEW products,3 Pieces Hot & Crispy™,32930,YES,Success,
+Delivery 3,NEW products,"6 Pieces Hot & Crispy™ ",32931,YES,Success,
+Delivery 3,NEW products,3 Original Tenders™,32932,YES,Success,
+Delivery 3,NEW products,5 Original Tenders™,32933,YES,Success,
+Delivery 3,NEW products,6 Nuggets,32934,YES,Success,
+Delivery 3,NEW products,10 Nuggets,32935,YES,Success,
+Delivery 3,NEW products,Regular Popcorn Chicken®,32936,YES,Success,
+Delivery 3,NEW products,Maxi Popcorn Chicken®,32937,YES,Success,
+Delivery 3,NEW products,Snack Popcorn Chicken®,32938,YES,Success,
+Delivery 3,NEW products,Double Tender™ Burger Combo,32939,YES,Success,
+Delivery 3,NEW products,Zinger Stacker® Burger Combo,32940,YES,Success,
+Delivery 3,NEW products,Original Crispy Burger Combo,32941,YES,Success,
+Delivery 3,NEW products,"Zinger® Crunch Burger™ Combo ",32942,YES,Success,
+Delivery 3,NEW products,Original Crispy Bacon & Cheese Burger Combo,32943,YES,Success,
+Delivery 3,NEW products,Original Crispy BBQ Bacon Stacker® Burger Combo,32944,YES,Success,
+Delivery 3,NEW products,Zinger® Bacon & Cheese Burger Combo,32945,YES,Success,
+Delivery 3,NEW products,Original Crunch Twister® Combo,32946,YES,Success,
+Delivery 3,NEW products,"Zinger® Crunch Twister® Combo ",32947,YES,Success,
+Delivery 3,NEW products,Zinger® Crunch Bowl Combo,32948,YES,Success,
+Delivery 3,NEW products,Original Tenders™ Crunch Bowl Combo,32949,YES,Success,
+Delivery 3,NEW products,Kids Meal with BBQ Slider,32950,YES,Success,
+Delivery 3,NEW products,Kids Meal with Nuggets,32951,YES,Success,
+Delivery 3,NEW products,Kids Meal with Snack Popcorn Chicken®,32952,YES,Success,
+Delivery 3,NEW products,Regular Popcorn Chicken® Combo,32954,YES,Success,
+Delivery 3,NEW products,Maxi Popcorn Chicken® Combo,32955,YES,Success,
+Delivery 3,NEW products,6 Wicked Wings® Combo,32956,YES,Success,
+Delivery 3,NEW products,Snack Popcorn Chicken® Combo,32957,YES,Success,
+Delivery 3,NEW products,10 Wicked Wings® Combo,32958,YES,Success,
+Delivery 3,NEW products,3 Wicked Wings® Combo,32959,YES,Success,
+Delivery 3,NEW products,"3 Pieces Combo Hot & Crispy™ ",32960,YES,Success,
+Delivery 3,NEW products,"6 Pieces Combo Hot & Crispy™ ",32961,YES,Success,
+Delivery 3,NEW products,6 Nugget Combo,32962,YES,Success,
+Delivery 3,NEW products,10 Nugget Combo,32963,YES,Success,
+Delivery 3,NEW products,3 Original Tenders™ Combo,32964,YES,Success,
+Delivery 3,NEW products,5 Original Tenders™ Combo,32965,YES,Success,
+Delivery 3,NEW products,Zinger® Burger Box Hot & Crispy™,32966,YES,Success,
+Delivery 3,NEW products,Zinger® Burger Box Hot & Crispy™,33017,YES,Success,
+Delivery 3,NEW products,"Zinger Stacker® Burger Box Hot & Crispy™ ",32967,YES,Success,
+Delivery 3,NEW products,"Zinger Stacker® Burger Box Hot & Crispy™ ",33018,YES,Success,
+Delivery 3,NEW products,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32968,YES,Success,
+Delivery 3,NEW products,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",33019,YES,Success,
+Delivery 3,NEW products,Original Crunch Twister® Box,32969,YES,Success,
+Delivery 3,NEW products,Original Crunch Twister® Box,33020,YES,Success,
+Delivery 3,NEW products,Zinger® Crunch Twister® Box,32970,YES,Success,
+Delivery 3,NEW products,Zinger® Crunch Twister® Box,33021,YES,Success,
+Delivery 3,NEW products,Original Crispy Burger Box,32971,YES,Success,
+Delivery 3,NEW products,Original Crispy Burger Box,33011,YES,Success,
+Delivery 3,NEW products,Original Crispy Bacon & Cheese Burger Box,32972,YES,Success,
+Delivery 3,NEW products,Original Crispy Bacon & Cheese Burger Box,33012,YES,Success,
+Delivery 3,NEW products,Original Crispy BBQ Bacon Stacker® Burger Box,32973,YES,Success,
+Delivery 3,NEW products,Original Crispy BBQ Bacon Stacker® Burger Box,33013,YES,Success,
+Delivery 3,NEW products,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32974,YES,Success,
+Delivery 3,NEW products,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",33022,YES,Success,
+Delivery 3,NEW products,3 Piece Box,32975,YES,Success,
+Delivery 3,NEW products,3 Piece Box,33014,YES,Success,
+Delivery 3,NEW products,Original Tenders™ Box,32976,YES,Success,
+Delivery 3,NEW products,Original Tenders™ Box,33015,YES,Success,
+Delivery 3,NEW products,Favourites Box,32977,YES,Success,
+Delivery 3,NEW products,Favourites Box,33016,YES,Success,
+Delivery 3,NEW products,Family Feast,32978,YES,Success,
+Delivery 3,NEW products,Burger Feast,32981,YES,Success,
+Delivery 3,NEW products,Burger Feast,33210,YES,Success,
+Delivery 3,NEW products,Value Feast,32982,YES,Success,
+Delivery 3,NEW products,Value Feast,33009,YES,Success,
+Delivery 3,NEW products,21 Pieces of Chicken - SA/WA,33001,YES,Success,
+Delivery 3,NEW products,Giant Feast,33104,YES,Success,
+Delivery 3,NEW products,NEW Mega Chicken Box,33105,YES,Success,
+Delivery 3,NEW products,NEW Mega Chicken Box,33212,YES,Success,
+Delivery 3,NEW products,NEW Mega Burger Feast,33206,YES,Success,
+Delivery 3,NEW products,Giant Feast - SA/WA,33208,YES,Success,
+Delivery 3,NEW products,3 Pieces of Chicken,33214,YES,Success,
+Delivery 3,NEW products,3 Piece Combo,33215,YES,Success,
+Delivery 3,NEW products,Go Bucket® Hot & Crispy™,33216,YES,Success,
+Delivery 3,NEW products,4 Dipping Sauces,33218,YES,Success,
+Delivery 3,NEW products,Bottled Water,33219,YES,Success,
+Delivery 3,NEW products,Sparkling Water,33220,YES,Success,
+Delivery 3,NEW products,Apple Juice,33221,YES,Success,
+Delivery 3,NEW products,Lipton Peach Ice Tea,33222,YES,Success,
+Delivery 3,NEW products,Spicy Mango Lemonade~,33223,YES,Success,
+Delivery 3,NEW products,Sparkling Raspberry Lemonade~,33224,YES,Success,
+Delivery 3,NEW products,Iced Latte,33225,YES,Success,
+Delivery 3,NEW products,Watermelon Boba Refresher~,33226,YES,Success,
+Delivery 3,NEW products,Cherry Boba Refresher~,33227,YES,Success,
+Delivery 3,NEW products,Caramel Krunch Shake,33228,YES,Success,
+Delivery 3,NEW products,Chocolate Krunch Shake,33229,YES,Success,
+Delivery 3,NEW products,Coconut Mango Krunch Shake,33230,YES,Success,
+Delivery 3,NEW products,Iced Mocha Koffee Krunch,33231,YES,Success,
+Delivery 3,NEW products,Iced Caramel Koffee Krunch,33232,YES,Success,
+Delivery 3,NEW products,Family Feast,33006,YES,Success,
+Delivery 3,NEW products,Giant Feast - SB,33207,YES,Success,
+Delivery 3,NEW products,Giant Feast - SB SA,33209,YES,Success,
+Delivery 3,NEW products,Double Tender™ Burger Box,33213,YES,Success,
+Delivery 3,NEW products,Large Coleslaw(4x110g),33217,YES,Success,
+Delivery 4,NEW Items,Tomato Dip,43810,YES,Success,
+Delivery 4,NEW Items,Regular Pepsi^,43811,YES,Success,
+Delivery 4,NEW Items,Regular Pepsi^,43849,YES,Success,
+Delivery 4,NEW Items,BBQ Dip,43819,YES,Success,
+Delivery 4,NEW Items,Supercharged Dip,43820,YES,Success,
+Delivery 4,NEW Items,Sweet Chilli Dip,43821,YES,Success,
+Delivery 4,NEW Items,Sweet & Sour Dip,43822,YES,Success,
+Delivery 4,NEW Items,Aioli Dip,43823,YES,Success,
+Delivery 4,NEW Items,LargePepsi^,43827,YES,Success,
+Delivery 4,NEW Items,LargePepsi^,43850,YES,Success,
+Delivery 4,NEW Items,1.25L Pepsi^,43828,YES,Success,
+Delivery 4,NEW Items,Regular Pepsi Max^,43829,YES,Success,
+Delivery 4,NEW Items,Large Pepsi Max^,43830,YES,Success,
+Delivery 4,NEW Items,Large Pepsi Max^,43848,YES,Success,
+Delivery 4,NEW Items,1.25L Pepsi Max^,43831,YES,Success,
+Delivery 4,NEW Items,Regular 7Up,43832,YES,Success,
+Delivery 4,NEW Items,Large 7Up,43833,YES,Success,
+Delivery 4,NEW Items,1.25L 7Up,43834,YES,Success,
+Delivery 4,NEW Items,Regular Mountain Dew,43835,YES,Success,
+Delivery 4,NEW Items,Regular Mountain Dew,43851,YES,Success,
+Delivery 4,NEW Items,Large Mountain Dew,43836,YES,Success,
+Delivery 4,NEW Items,Large Mountain Dew,43852,YES,Success,
+Delivery 4,NEW Items,1.25L Mountain Dew,43837,YES,Success,
+Delivery 4,NEW Items,Regular Solo,43838,YES,Success,
+Delivery 4,NEW Items,Regular Solo,43853,YES,Success,
+Delivery 4,NEW Items,Large Solo,43839,YES,Success,
+Delivery 4,NEW Items,Large Solo,43854,YES,Success,
+Delivery 4,NEW Items,1.25L Solo,43840,YES,Success,
+Delivery 4,NEW Items,Regular Sunkist No Sugar,43841,YES,Success,
+Delivery 4,NEW Items,Large Sunkist No Sugar,43842,YES,Success,
+Delivery 4,NEW Items,1.25L Sunkist No Sugar,43843,YES,Success,
+Delivery 4,NEW Items,Regular Sunkist,43845,YES,Success,
+Delivery 4,NEW Items,Large Sunkist,43846,YES,Success,
+Delivery 4,NEW Items,Jalapeno Mayo Dip,44003,YES,Success,
+Delivery 5,NEW products,Zinger® Burger,32879,YES,Success,
+Delivery 5,NEW products,Zinger® Burger Combo,32880,YES,Success,
+Delivery 5,NEW products,Double Tender™ Burger,32886,YES,Success,
+Delivery 5,NEW products,Zinger® Bacon & Cheese Burger,32887,YES,Success,
+Delivery 5,NEW products,Zinger® Crunch Burger™,32888,YES,Success,
+Delivery 5,NEW products,Original Crispy Burger,32889,YES,Success,
+Delivery 5,NEW products,Original Crispy Bacon & Cheese Burger,32890,YES,Success,
+Delivery 5,NEW products,Original Crispy BBQ Bacon Stacker® Burger,32891,YES,Success,
+Delivery 5,NEW products,Zinger Stacker® Burger,32892,YES,Success,
+Delivery 5,NEW products,Original Pepper Mayo Slider,32897,YES,Success,
+Delivery 5,NEW products,Original BBQ Slider,32898,YES,Success,
+Delivery 5,NEW products,Original Crunch Twister® ,32899,YES,Success,
+Delivery 5,NEW products,Zinger® Crunch Twister®  ,32900,YES,Success,
+Delivery 5,NEW products,"Original Supercharged Slider ",32901,YES,Success,
+Delivery 5,NEW products,Regular Potato & Gravy,32904,YES,Success,
+Delivery 5,NEW products,Large Potato & Gravy,32905,YES,Success,
+Delivery 5,NEW products,Regular Coleslaw,32906,YES,Success,
+Delivery 5,NEW products,Large Coleslaw,32907,YES,Success,
+Delivery 5,NEW products,Regular Gravy,32908,YES,Success,
+Delivery 5,NEW products,Crunchy Jalapeno Slaw,32909,YES,Success,
+Delivery 5,NEW products,Dinner Roll,32910,YES,Success,
+Delivery 5,NEW products,Double Chocolate Mousse,32911,YES,Success,
+Delivery 5,NEW products,Original Tenders™ Crunch Bowl,32912,YES,Success,
+Delivery 5,NEW products,Zinger® Crunch Bowl,32913,YES,Success,
+Delivery 5,NEW products,Go Bucket® 2 Wicked Wings®,32914,YES,Success,
+Delivery 5,NEW products,Go Bucket® 1 Original Tender™,32915,YES,Success,
+Delivery 5,NEW products,Go Bucket® Popcorn Chicken®,32916,YES,Success,
+Delivery 5,NEW products,Go Bucket® 3 Nuggets,32917,YES,Success,
+Delivery 5,NEW products,1 Piece of Chicken,32922,YES,Success,
+Delivery 5,NEW products,6 Pieces of Chicken,32923,YES,Success,
+Delivery 5,NEW products,21 Pieces of Chicken,32924,YES,Success,
+Delivery 5,NEW products,3 Wicked Wings®,32925,YES,Success,
+Delivery 5,NEW products,6 Wicked Wings®,32926,YES,Success,
+Delivery 5,NEW products,10 Wicked Wings®,32927,YES,Success,
+Delivery 5,NEW products,Zinger® Fillet Piece,32928,YES,Success,
+Delivery 5,NEW products,Original Crispy Fillet Piece,32929,YES,Success,
+Delivery 5,NEW products,3 Pieces Hot & Crispy™,32930,YES,Success,
+Delivery 5,NEW products,"6 Pieces Hot & Crispy™ ",32931,YES,Success,
+Delivery 5,NEW products,3 Original Tenders™,32932,YES,Success,
+Delivery 5,NEW products,5 Original Tenders™,32933,YES,Success,
+Delivery 5,NEW products,6 Nuggets,32934,YES,Success,
+Delivery 5,NEW products,10 Nuggets,32935,YES,Success,
+Delivery 5,NEW products,Regular Popcorn Chicken®,32936,YES,Success,
+Delivery 5,NEW products,Maxi Popcorn Chicken®,32937,YES,Success,
+Delivery 5,NEW products,Snack Popcorn Chicken®,32938,YES,Success,
+Delivery 5,NEW products,Double Tender™ Burger Combo,32939,YES,Success,
+Delivery 5,NEW products,Zinger Stacker® Burger Combo,32940,YES,Success,
+Delivery 5,NEW products,Original Crispy Burger Combo,32941,YES,Success,
+Delivery 5,NEW products,"Zinger® Crunch Burger™ Combo ",32942,YES,Success,
+Delivery 5,NEW products,Original Crispy Bacon & Cheese Burger Combo,32943,YES,Success,
+Delivery 5,NEW products,Original Crispy BBQ Bacon Stacker® Burger Combo,32944,YES,Success,
+Delivery 5,NEW products,Zinger® Bacon & Cheese Burger Combo,32945,YES,Success,
+Delivery 5,NEW products,Original Crunch Twister® Combo,32946,YES,Success,
+Delivery 5,NEW products,"Zinger® Crunch Twister® Combo ",32947,YES,Success,
+Delivery 5,NEW products,Zinger® Crunch Bowl Combo,32948,YES,Success,
+Delivery 5,NEW products,Original Tenders™ Crunch Bowl Combo,32949,YES,Success,
+Delivery 5,NEW products,Kids Meal with BBQ Slider,32950,YES,Success,
+Delivery 5,NEW products,Kids Meal with Nuggets,32951,YES,Success,
+Delivery 5,NEW products,Kids Meal with Snack Popcorn Chicken®,32952,YES,Success,
+Delivery 5,NEW products,Regular Popcorn Chicken® Combo,32954,YES,Success,
+Delivery 5,NEW products,Maxi Popcorn Chicken® Combo,32955,YES,Success,
+Delivery 5,NEW products,6 Wicked Wings® Combo,32956,YES,Success,
+Delivery 5,NEW products,Snack Popcorn Chicken® Combo,32957,YES,Success,
+Delivery 5,NEW products,10 Wicked Wings® Combo,32958,YES,Success,
+Delivery 5,NEW products,3 Wicked Wings® Combo,32959,YES,Success,
+Delivery 5,NEW products,"3 Pieces Combo Hot & Crispy™ ",32960,YES,Success,
+Delivery 5,NEW products,"6 Pieces Combo Hot & Crispy™ ",32961,YES,Success,
+Delivery 5,NEW products,6 Nugget Combo,32962,YES,Success,
+Delivery 5,NEW products,10 Nugget Combo,32963,YES,Success,
+Delivery 5,NEW products,3 Original Tenders™ Combo,32964,YES,Success,
+Delivery 5,NEW products,5 Original Tenders™ Combo,32965,YES,Success,
+Delivery 5,NEW products,Zinger® Burger Box Hot & Crispy™,32966,YES,Success,
+Delivery 5,NEW products,Zinger® Burger Box Hot & Crispy™,33017,YES,Success,
+Delivery 5,NEW products,"Zinger Stacker® Burger Box Hot & Crispy™ ",32967,YES,Success,
+Delivery 5,NEW products,"Zinger Stacker® Burger Box Hot & Crispy™ ",33018,YES,Success,
+Delivery 5,NEW products,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32968,YES,Success,
+Delivery 5,NEW products,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",33019,YES,Success,
+Delivery 5,NEW products,Original Crunch Twister® Box,32969,YES,Success,
+Delivery 5,NEW products,Original Crunch Twister® Box,33020,YES,Success,
+Delivery 5,NEW products,Zinger® Crunch Twister® Box,32970,YES,Success,
+Delivery 5,NEW products,Zinger® Crunch Twister® Box,33021,YES,Success,
+Delivery 5,NEW products,Original Crispy Burger Box,32971,YES,Success,
+Delivery 5,NEW products,Original Crispy Burger Box,33011,YES,Success,
+Delivery 5,NEW products,Original Crispy Bacon & Cheese Burger Box,32972,YES,Success,
+Delivery 5,NEW products,Original Crispy Bacon & Cheese Burger Box,33012,YES,Success,
+Delivery 5,NEW products,Original Crispy BBQ Bacon Stacker® Burger Box,32973,YES,Success,
+Delivery 5,NEW products,Original Crispy BBQ Bacon Stacker® Burger Box,33013,YES,Success,
+Delivery 5,NEW products,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32974,YES,Success,
+Delivery 5,NEW products,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",33022,YES,Success,
+Delivery 5,NEW products,3 Piece Box,32975,YES,Success,
+Delivery 5,NEW products,3 Piece Box,33014,YES,Success,
+Delivery 5,NEW products,Original Tenders™ Box,32976,YES,Success,
+Delivery 5,NEW products,Original Tenders™ Box,33015,YES,Success,
+Delivery 5,NEW products,Favourites Box,32977,YES,Success,
+Delivery 5,NEW products,Favourites Box,33016,YES,Success,
+Delivery 5,NEW products,Family Feast,32978,YES,Success,
+Delivery 5,NEW products,Burger Feast,32981,YES,Success,
+Delivery 5,NEW products,Burger Feast,33210,YES,Success,
+Delivery 5,NEW products,Value Feast,32982,YES,Success,
+Delivery 5,NEW products,Value Feast,33009,YES,Success,
+Delivery 5,NEW products,21 Pieces of Chicken - SA/WA,33001,YES,Success,
+Delivery 5,NEW products,Giant Feast,33104,YES,Success,
+Delivery 5,NEW products,NEW Mega Chicken Box,33105,YES,Success,
+Delivery 5,NEW products,NEW Mega Chicken Box,33212,YES,Success,
+Delivery 5,NEW products,NEW Mega Burger Feast,33206,YES,Success,
+Delivery 5,NEW products,Giant Feast - SA/WA,33208,YES,Success,
+Delivery 5,NEW products,3 Pieces of Chicken,33214,YES,Success,
+Delivery 5,NEW products,3 Piece Combo,33215,YES,Success,
+Delivery 5,NEW products,Go Bucket® Hot & Crispy™,33216,YES,Success,
+Delivery 5,NEW products,4 Dipping Sauces,33218,YES,Success,
+Delivery 5,NEW products,Bottled Water,33219,YES,Success,
+Delivery 5,NEW products,Sparkling Water,33220,YES,Success,
+Delivery 5,NEW products,Apple Juice,33221,YES,Success,
+Delivery 5,NEW products,Lipton Peach Ice Tea,33222,YES,Success,
+Delivery 5,NEW products,Spicy Mango Lemonade~,33223,YES,Success,
+Delivery 5,NEW products,Sparkling Raspberry Lemonade~,33224,YES,Success,
+Delivery 5,NEW products,Iced Latte,33225,YES,Success,
+Delivery 5,NEW products,Watermelon Boba Refresher~,33226,YES,Success,
+Delivery 5,NEW products,Cherry Boba Refresher~,33227,YES,Success,
+Delivery 5,NEW products,Caramel Krunch Shake,33228,YES,Success,
+Delivery 5,NEW products,Chocolate Krunch Shake,33229,YES,Success,
+Delivery 5,NEW products,Coconut Mango Krunch Shake,33230,YES,Success,
+Delivery 5,NEW products,Iced Mocha Koffee Krunch,33231,YES,Success,
+Delivery 5,NEW products,Iced Caramel Koffee Krunch,33232,YES,Success,
+Delivery 5,NEW products,Family Feast,33006,YES,Success,
+Delivery 5,NEW products,Giant Feast - SB,33207,YES,Success,
+Delivery 5,NEW products,Giant Feast - SB SA,33209,YES,Success,
+Delivery 5,NEW products,Double Tender™ Burger Box,33213,YES,Success,
+Delivery 5,NEW products,Large Coleslaw(4x110g),33217,YES,Success,
+Delivery 6,NEW products,Zinger® Burger,32879,YES,Success,
+Delivery 6,NEW products,Zinger® Burger Combo,32880,YES,Success,
+Delivery 6,NEW products,Double Tender™ Burger,32886,YES,Success,
+Delivery 6,NEW products,Zinger® Bacon & Cheese Burger,32887,YES,Success,
+Delivery 6,NEW products,Zinger® Crunch Burger™,32888,YES,Success,
+Delivery 6,NEW products,Original Crispy Burger,32889,YES,Success,
+Delivery 6,NEW products,Original Crispy Bacon & Cheese Burger,32890,YES,Success,
+Delivery 6,NEW products,Original Crispy BBQ Bacon Stacker® Burger,32891,YES,Success,
+Delivery 6,NEW products,Zinger Stacker® Burger,32892,YES,Success,
+Delivery 6,NEW products,Original Pepper Mayo Slider,32897,YES,Success,
+Delivery 6,NEW products,Original BBQ Slider,32898,YES,Success,
+Delivery 6,NEW products,Original Crunch Twister® ,32899,YES,Success,
+Delivery 6,NEW products,Zinger® Crunch Twister®  ,32900,YES,Success,
+Delivery 6,NEW products,"Original Supercharged Slider ",32901,YES,Success,
+Delivery 6,NEW products,Regular Potato & Gravy,32904,YES,Success,
+Delivery 6,NEW products,Large Potato & Gravy,32905,YES,Success,
+Delivery 6,NEW products,Regular Coleslaw,32906,YES,Success,
+Delivery 6,NEW products,Large Coleslaw,32907,YES,Success,
+Delivery 6,NEW products,Regular Gravy,32908,YES,Success,
+Delivery 6,NEW products,Crunchy Jalapeno Slaw,32909,YES,Success,
+Delivery 6,NEW products,Dinner Roll,32910,YES,Success,
+Delivery 6,NEW products,Double Chocolate Mousse,32911,YES,Success,
+Delivery 6,NEW products,Original Tenders™ Crunch Bowl,32912,YES,Success,
+Delivery 6,NEW products,Zinger® Crunch Bowl,32913,YES,Success,
+Delivery 6,NEW products,Go Bucket® 2 Wicked Wings®,32914,YES,Success,
+Delivery 6,NEW products,Go Bucket® 1 Original Tender™,32915,YES,Success,
+Delivery 6,NEW products,Go Bucket® Popcorn Chicken®,32916,YES,Success,
+Delivery 6,NEW products,Go Bucket® 3 Nuggets,32917,YES,Success,
+Delivery 6,NEW products,1 Piece of Chicken,32922,YES,Success,
+Delivery 6,NEW products,6 Pieces of Chicken,32923,YES,Success,
+Delivery 6,NEW products,21 Pieces of Chicken,32924,YES,Success,
+Delivery 6,NEW products,3 Wicked Wings®,32925,YES,Success,
+Delivery 6,NEW products,6 Wicked Wings®,32926,YES,Success,
+Delivery 6,NEW products,10 Wicked Wings®,32927,YES,Success,
+Delivery 6,NEW products,Zinger® Fillet Piece,32928,YES,Success,
+Delivery 6,NEW products,Original Crispy Fillet Piece,32929,YES,Success,
+Delivery 6,NEW products,3 Pieces Hot & Crispy™,32930,YES,Success,
+Delivery 6,NEW products,"6 Pieces Hot & Crispy™ ",32931,YES,Success,
+Delivery 6,NEW products,3 Original Tenders™,32932,YES,Success,
+Delivery 6,NEW products,5 Original Tenders™,32933,YES,Success,
+Delivery 6,NEW products,6 Nuggets,32934,YES,Success,
+Delivery 6,NEW products,10 Nuggets,32935,YES,Success,
+Delivery 6,NEW products,Regular Popcorn Chicken®,32936,YES,Success,
+Delivery 6,NEW products,Maxi Popcorn Chicken®,32937,YES,Success,
+Delivery 6,NEW products,Snack Popcorn Chicken®,32938,YES,Success,
+Delivery 6,NEW products,Double Tender™ Burger Combo,32939,YES,Success,
+Delivery 6,NEW products,Zinger Stacker® Burger Combo,32940,YES,Success,
+Delivery 6,NEW products,Original Crispy Burger Combo,32941,YES,Success,
+Delivery 6,NEW products,"Zinger® Crunch Burger™ Combo ",32942,YES,Success,
+Delivery 6,NEW products,Original Crispy Bacon & Cheese Burger Combo,32943,YES,Success,
+Delivery 6,NEW products,Original Crispy BBQ Bacon Stacker® Burger Combo,32944,YES,Success,
+Delivery 6,NEW products,Zinger® Bacon & Cheese Burger Combo,32945,YES,Success,
+Delivery 6,NEW products,Original Crunch Twister® Combo,32946,YES,Success,
+Delivery 6,NEW products,"Zinger® Crunch Twister® Combo ",32947,YES,Success,
+Delivery 6,NEW products,Zinger® Crunch Bowl Combo,32948,YES,Success,
+Delivery 6,NEW products,Original Tenders™ Crunch Bowl Combo,32949,YES,Success,
+Delivery 6,NEW products,Kids Meal with BBQ Slider,32950,YES,Success,
+Delivery 6,NEW products,Kids Meal with Nuggets,32951,YES,Success,
+Delivery 6,NEW products,Kids Meal with Snack Popcorn Chicken®,32952,YES,Success,
+Delivery 6,NEW products,Regular Popcorn Chicken® Combo,32954,YES,Success,
+Delivery 6,NEW products,Maxi Popcorn Chicken® Combo,32955,YES,Success,
+Delivery 6,NEW products,6 Wicked Wings® Combo,32956,YES,Success,
+Delivery 6,NEW products,Snack Popcorn Chicken® Combo,32957,YES,Success,
+Delivery 6,NEW products,10 Wicked Wings® Combo,32958,YES,Success,
+Delivery 6,NEW products,3 Wicked Wings® Combo,32959,YES,Success,
+Delivery 6,NEW products,"3 Pieces Combo Hot & Crispy™ ",32960,YES,Success,
+Delivery 6,NEW products,"6 Pieces Combo Hot & Crispy™ ",32961,YES,Success,
+Delivery 6,NEW products,6 Nugget Combo,32962,YES,Success,
+Delivery 6,NEW products,10 Nugget Combo,32963,YES,Success,
+Delivery 6,NEW products,3 Original Tenders™ Combo,32964,YES,Success,
+Delivery 6,NEW products,5 Original Tenders™ Combo,32965,YES,Success,
+Delivery 6,NEW products,Zinger® Burger Box Hot & Crispy™,32966,YES,Success,
+Delivery 6,NEW products,Zinger® Burger Box Hot & Crispy™,33017,YES,Success,
+Delivery 6,NEW products,"Zinger Stacker® Burger Box Hot & Crispy™ ",32967,YES,Success,
+Delivery 6,NEW products,"Zinger Stacker® Burger Box Hot & Crispy™ ",33018,YES,Success,
+Delivery 6,NEW products,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",32968,YES,Success,
+Delivery 6,NEW products,"Zinger® Crunch Burger™ Box Hot & Crispy™ ",33019,YES,Success,
+Delivery 6,NEW products,Original Crunch Twister® Box,32969,YES,Success,
+Delivery 6,NEW products,Original Crunch Twister® Box,33020,YES,Success,
+Delivery 6,NEW products,Zinger® Crunch Twister® Box,32970,YES,Success,
+Delivery 6,NEW products,Zinger® Crunch Twister® Box,33021,YES,Success,
+Delivery 6,NEW products,Original Crispy Burger Box,32971,YES,Success,
+Delivery 6,NEW products,Original Crispy Burger Box,33011,YES,Success,
+Delivery 6,NEW products,Original Crispy Bacon & Cheese Burger Box,32972,YES,Success,
+Delivery 6,NEW products,Original Crispy Bacon & Cheese Burger Box,33012,YES,Success,
+Delivery 6,NEW products,Original Crispy BBQ Bacon Stacker® Burger Box,32973,YES,Success,
+Delivery 6,NEW products,Original Crispy BBQ Bacon Stacker® Burger Box,33013,YES,Success,
+Delivery 6,NEW products,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",32974,YES,Success,
+Delivery 6,NEW products,"Zinger® Bacon & Cheese Burger Box Hot & Crispy™ ",33022,YES,Success,
+Delivery 6,NEW products,3 Piece Box,32975,YES,Success,
+Delivery 6,NEW products,3 Piece Box,33014,YES,Success,
+Delivery 6,NEW products,Original Tenders™ Box,32976,YES,Success,
+Delivery 6,NEW products,Original Tenders™ Box,33015,YES,Success,
+Delivery 6,NEW products,Favourites Box,32977,YES,Success,
+Delivery 6,NEW products,Favourites Box,33016,YES,Success,
+Delivery 6,NEW products,Family Feast,32978,YES,Success,
+Delivery 6,NEW products,Burger Feast,32981,YES,Success,
+Delivery 6,NEW products,Burger Feast,33210,YES,Success,
+Delivery 6,NEW products,Value Feast,32982,YES,Success,
+Delivery 6,NEW products,Value Feast,33009,YES,Success,
+Delivery 6,NEW products,21 Pieces of Chicken - SA/WA,33001,YES,Success,
+Delivery 6,NEW products,Giant Feast,33104,YES,Success,
+Delivery 6,NEW products,NEW Mega Chicken Box,33105,YES,Success,
+Delivery 6,NEW products,NEW Mega Chicken Box,33212,YES,Success,
+Delivery 6,NEW products,NEW Mega Burger Feast,33206,YES,Success,
+Delivery 6,NEW products,Giant Feast - SA/WA,33208,YES,Success,
+Delivery 6,NEW products,3 Pieces of Chicken,33214,YES,Success,
+Delivery 6,NEW products,3 Piece Combo,33215,YES,Success,
+Delivery 6,NEW products,Go Bucket® Hot & Crispy™,33216,YES,Success,
+Delivery 6,NEW products,4 Dipping Sauces,33218,YES,Success,
+Delivery 6,NEW products,Bottled Water,33219,YES,Success,
+Delivery 6,NEW products,Sparkling Water,33220,YES,Success,
+Delivery 6,NEW products,Apple Juice,33221,YES,Success,
+Delivery 6,NEW products,Lipton Peach Ice Tea,33222,YES,Success,
+Delivery 6,NEW products,Spicy Mango Lemonade~,33223,YES,Success,
+Delivery 6,NEW products,Sparkling Raspberry Lemonade~,33224,YES,Success,
+Delivery 6,NEW products,Iced Latte,33225,YES,Success,
+Delivery 6,NEW products,Watermelon Boba Refresher~,33226,YES,Success,
+Delivery 6,NEW products,Cherry Boba Refresher~,33227,YES,Success,
+Delivery 6,NEW products,Caramel Krunch Shake,33228,YES,Success,
+Delivery 6,NEW products,Chocolate Krunch Shake,33229,YES,Success,
+Delivery 6,NEW products,Coconut Mango Krunch Shake,33230,YES,Success,
+Delivery 6,NEW products,Iced Mocha Koffee Krunch,33231,YES,Success,
+Delivery 6,NEW products,Iced Caramel Koffee Krunch,33232,YES,Success,
+Delivery 6,NEW products,Family Feast,33006,YES,Success,
+Delivery 6,NEW products,Giant Feast - SB,33207,YES,Success,
+Delivery 6,NEW products,Giant Feast - SB SA,33209,YES,Success,
+Delivery 6,NEW products,Double Tender™ Burger Box,33213,YES,Success,
+Delivery 6,NEW products,Large Coleslaw(4x110g),33217,YES,Success,
+Delivery 7,NEW Items,Tomato Dip,43810,YES,Success,
+Delivery 7,NEW Items,Regular Pepsi^,43811,YES,Success,
+Delivery 7,NEW Items,Regular Pepsi^,43849,YES,Success,
+Delivery 7,NEW Items,BBQ Dip,43819,YES,Success,
+Delivery 7,NEW Items,Supercharged Dip,43820,YES,Success,
+Delivery 7,NEW Items,Sweet Chilli Dip,43821,YES,Success,
+Delivery 7,NEW Items,Sweet & Sour Dip,43822,YES,Success,
+Delivery 7,NEW Items,Aioli Dip,43823,YES,Success,
+Delivery 7,NEW Items,LargePepsi^,43827,YES,Success,
+Delivery 7,NEW Items,LargePepsi^,43850,YES,Success,
+Delivery 7,NEW Items,1.25L Pepsi^,43828,YES,Success,
+Delivery 7,NEW Items,Regular Pepsi Max^,43829,YES,Success,
+Delivery 7,NEW Items,Large Pepsi Max^,43830,YES,Success,
+Delivery 7,NEW Items,Large Pepsi Max^,43848,YES,Success,
+Delivery 7,NEW Items,1.25L Pepsi Max^,43831,YES,Success,
+Delivery 7,NEW Items,Regular 7Up,43832,YES,Success,
+Delivery 7,NEW Items,Large 7Up,43833,YES,Success,
+Delivery 7,NEW Items,1.25L 7Up,43834,YES,Success,
+Delivery 7,NEW Items,Regular Mountain Dew,43835,YES,Success,
+Delivery 7,NEW Items,Regular Mountain Dew,43851,YES,Success,
+Delivery 7,NEW Items,Large Mountain Dew,43836,YES,Success,
+Delivery 7,NEW Items,Large Mountain Dew,43852,YES,Success,
+Delivery 7,NEW Items,1.25L Mountain Dew,43837,YES,Success,
+Delivery 7,NEW Items,Regular Solo,43838,YES,Success,
+Delivery 7,NEW Items,Regular Solo,43853,YES,Success,
+Delivery 7,NEW Items,Large Solo,43839,YES,Success,
+Delivery 7,NEW Items,Large Solo,43854,YES,Success,
+Delivery 7,NEW Items,1.25L Solo,43840,YES,Success,
+Delivery 7,NEW Items,Regular Sunkist No Sugar,43841,YES,Success,
+Delivery 7,NEW Items,Large Sunkist No Sugar,43842,YES,Success,
+Delivery 7,NEW Items,1.25L Sunkist No Sugar,43843,YES,Success,
+Delivery 7,NEW Items,Regular Sunkist,43845,YES,Success,
+Delivery 7,NEW Items,Large Sunkist,43846,YES,Success,
+Delivery 7,NEW Items,Jalapeno Mayo Dip,44003,YES,Success,
+Delivery 8,NEW Items,Tomato Dip,43810,YES,Success,
+Delivery 8,NEW Items,Regular Pepsi^,43811,YES,Success,
+Delivery 8,NEW Items,Regular Pepsi^,43849,YES,Success,
+Delivery 8,NEW Items,BBQ Dip,43819,YES,Success,
+Delivery 8,NEW Items,Supercharged Dip,43820,YES,Success,
+Delivery 8,NEW Items,Sweet Chilli Dip,43821,YES,Success,
+Delivery 8,NEW Items,Sweet & Sour Dip,43822,YES,Success,
+Delivery 8,NEW Items,Aioli Dip,43823,YES,Success,
+Delivery 8,NEW Items,LargePepsi^,43827,YES,Success,
+Delivery 8,NEW Items,LargePepsi^,43850,YES,Success,
+Delivery 8,NEW Items,1.25L Pepsi^,43828,YES,Success,
+Delivery 8,NEW Items,Regular Pepsi Max^,43829,YES,Success,
+Delivery 8,NEW Items,Large Pepsi Max^,43830,YES,Success,
+Delivery 8,NEW Items,Large Pepsi Max^,43848,YES,Success,
+Delivery 8,NEW Items,1.25L Pepsi Max^,43831,YES,Success,
+Delivery 8,NEW Items,Regular 7Up,43832,YES,Success,
+Delivery 8,NEW Items,Large 7Up,43833,YES,Success,
+Delivery 8,NEW Items,1.25L 7Up,43834,YES,Success,
+Delivery 8,NEW Items,Regular Mountain Dew,43835,YES,Success,
+Delivery 8,NEW Items,Regular Mountain Dew,43851,YES,Success,
+Delivery 8,NEW Items,Large Mountain Dew,43836,YES,Success,
+Delivery 8,NEW Items,Large Mountain Dew,43852,YES,Success,
+Delivery 8,NEW Items,1.25L Mountain Dew,43837,YES,Success,
+Delivery 8,NEW Items,Regular Solo,43838,YES,Success,
+Delivery 8,NEW Items,Regular Solo,43853,YES,Success,
+Delivery 8,NEW Items,Large Solo,43839,YES,Success,
+Delivery 8,NEW Items,Large Solo,43854,YES,Success,
+Delivery 8,NEW Items,1.25L Solo,43840,YES,Success,
+Delivery 8,NEW Items,Regular Sunkist No Sugar,43841,YES,Success,
+Delivery 8,NEW Items,Large Sunkist No Sugar,43842,YES,Success,
+Delivery 8,NEW Items,1.25L Sunkist No Sugar,43843,YES,Success,
+Delivery 8,NEW Items,Regular Sunkist,43845,YES,Success,
+Delivery 8,NEW Items,Large Sunkist,43846,YES,Success,
+Delivery 8,NEW Items,Jalapeno Mayo Dip,44003,YES,Success,

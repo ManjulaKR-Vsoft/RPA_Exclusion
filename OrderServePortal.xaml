@@ -108,7 +108,7 @@
       <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="OrderServePortal" sap:VirtualizedContainerService.HintSize="2268,3522" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="OrderServePortal" sap:VirtualizedContainerService.HintSize="2268,4226" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="kct6624" Name="Username" />
       <Variable x:TypeArguments="ss:SecureString" Name="Password" />
@@ -133,13 +133,13 @@
       </ui:GetRobotAsset>
       <ui:GetRobotCredential TimeoutMS="{x:Null}" AssetName="OrderservePortalCreds" CacheStrategy="None" DisplayName="Get Credential" FolderPath="Exclusion" sap:VirtualizedContainerService.HintSize="416,166" sap2010:WorkflowViewState.IdRef="GetRobotCredential_1" Password="[Password]" Username="[Username]" />
     </Sequence>
-    <uix:NApplicationCard CloseMode="Never" DisplayName="Browser" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="2268,3442" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="Always" ScopeGuid="b7e9646f-033f-4144-a2dc-a002545c1d98">
+    <uix:NApplicationCard CloseMode="Never" DisplayName="Browser" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="2268,4146" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="Always" ScopeGuid="b7e9646f-033f-4144-a2dc-a002545c1d98">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="2234,3202" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="2234,3906" sap2010:WorkflowViewState.IdRef="Sequence_2">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -147,12 +147,12 @@
             </sap:WorkflowViewStateService.ViewState>
             <ui:MaximizeWindow Window="{x:Null}" DisplayName="Maximize Window" sap:VirtualizedContainerService.HintSize="2200,57" sap2010:WorkflowViewState.IdRef="MaximizeWindow_1" />
             <Delay Duration="00:00:03" sap:VirtualizedContainerService.HintSize="2200,122" sap2010:WorkflowViewState.IdRef="Delay_1" />
-            <uix:NCheckState DisplayName="Check App State 'Sign in'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="2200,361" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="b7e9646f-033f-4144-a2dc-a002545c1d98" Version="V5">
+            <uix:NCheckState DisplayName="Check App State 'Sign in'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="2200,1065" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="b7e9646f-033f-4144-a2dc-a002545c1d98" Version="V5">
               <uix:NCheckState.IfExists>
-                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="450,25" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="450,816" sap2010:WorkflowViewState.IdRef="Sequence_4">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       <x:Boolean x:Key="IsPinned">False</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
@@ -485,7 +485,7 @@
                 </Sequence>
               </uix:NCheckState.IfNotExists>
               <uix:NCheckState.Target>
-                <uix:TargetAnchorable BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com" CVScreenId="dad4fa40-0aa7-4d6e-99e1-1077b364c667" ContentHash="RDvIzn0sQU2OXLyryWU70g" CvTextArea="54, 211, 1293, 24" CvTextArgument="Executive Summary 8th Aug, 2025" CvType="Text" DesignTimeRectangle="55, 207, 1280, 34" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" Guid="8972f891-eb28-4ee9-be61-dff66d4f88bb" InformativeScreenshot="e48b1ef3994eccdb969915ebfff9ee70.png" Reference="mEDzMWy4KESA-HIzYnwmGQ/G_ywbcgCnkSAQxeRYZgVcw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Executive Summary-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive" />
+                <uix:TargetAnchorable BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com" CVScreenId="dad4fa40-0aa7-4d6e-99e1-1077b364c667" CvTextArea="54, 211, 1293, 24" CvTextArgument="Executive Summary 8th Aug, 2025" CvType="Text" DesignTimeRectangle="55, 207, 1280, 34" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" Guid="8972f891-eb28-4ee9-be61-dff66d4f88bb" InformativeScreenshot="e48b1ef3994eccdb969915ebfff9ee70.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Executive Summary-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete" />
               </uix:NCheckState.Target>
             </uix:NCheckState>
           </Sequence>
