@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="pN2lkYc5F0GSCPhQ8ZoVBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="M5wqJ-Y1yE6hZ3oL6MbtAw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionAdvance" CVScreenId="1dd5a36b-9812-4537-b34b-8bb6f9d88cb2" CvElementArea="1039, 321, 276, 38" CvType="InputBox" DesignTimeRectangle="1043, 325, 267, 31" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Select Restaurant             *' tag='BUTTON' /&gt;" Guid="a8390ade-8114-4fd9-a43c-4667107af085" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="f14de0c5bab84e145d647d4d6f97c897.png" xmlns="">0ivoYf91jg0-kb49Mi-Lqpg</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionAdvance" CVScreenId="d28145a2-e501-49d1-bbef-6ceffaba29bb" CvElementArea="1039, 270, 298, 34" CvType="InputBox" DesignTimeRectangle="1042, 273, 274, 28" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Select Restaurant             *' parentname='formSubmit' tag='BUTTON' /&gt;" Guid="23fa6787-4833-409c-a640-3919b767e436" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion Lookup-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8ccb02fbc8b9975f1495962297deed4e.png" xmlns="">0j8FbrUkXnUKaehf4nzpbaQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JM2lWAkcKkSJF4mlqqRaaA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionLookupAdvance" CVScreenId="87999d40-68a8-4156-a5e9-05699d11f652" CvElementArea="1112, 443, 213, 37" CvType="InputBox" DesignTimeRectangle="1113, 444, 211, 35" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='searchStr' tag='INPUT' /&gt;" Guid="07a926f3-b08c-497c-8f3d-d241b826a0fd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion Lookup-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="87999d40-68a8-4156-a5e9-05699d11f652" CvElementArea="913, 443, 187, 36" CvTextArea="986, 454, 42, 12" CvTextArgument="DELETE" CvType="Button" DesignTimeRectangle="915, 444, 184, 34" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Delete' tag='BUTTON' type='button' /&gt;" Guid="11bb85c0-122e-45cc-8938-8143cfa5d45e" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="701f372e9b1b9478704226c878fa472a.png" xmlns="">0c-RCB5AWJEa0mn3JZvxn2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_HtEiWWyykK7LuWYi4q3bg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionLookupAdvance" CVScreenId="b2598084-760a-4a39-b1d1-bfe5728d9eef" CvElementArea="1112, 443, 213, 37" CvType="InputBox" DesignTimeRectangle="1113, 444, 211, 35" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='searchStr' tag='INPUT' /&gt;" Guid="be04103f-8a53-4da0-8e20-6ec247560b7e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion Lookup-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="24c6bb4b9c5acc37bf585c72d32b58ba.png" xmlns="">0NL7X28ced0mlXmyju5NCMA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
