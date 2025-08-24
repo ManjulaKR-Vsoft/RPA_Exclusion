@@ -111,13 +111,13 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="LookupVerification" sap:VirtualizedContainerService.HintSize="1282,3581" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="LookupVerification" sap:VirtualizedContainerService.HintSize="2224,3364" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1130,565" sap2010:WorkflowViewState.IdRef="CommentOut_2">
+    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="2224,565" sap2010:WorkflowViewState.IdRef="CommentOut_2">
       <ui:CommentOut.Body>
         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="468,454" sap2010:WorkflowViewState.IdRef="Sequence_18">
           <sap:WorkflowViewStateService.ViewState>
@@ -149,38 +149,38 @@
         </Sequence>
       </ui:CommentOut.Body>
     </ui:CommentOut>
-    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="1130,2993" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="2224,2776" sap2010:WorkflowViewState.IdRef="TryCatch_1">
       <TryCatch.Try>
-        <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Always" DisplayName="Chrome Product Exclusion-KFC-Australia-Admin(" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1128,2692" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="Always" ScopeGuid="982beb27-2077-44fb-8c26-d68559007aa2" Version="V2" WindowResize="Maximize">
+        <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Always" DisplayName="Chrome Product Exclusion-KFC-Australia-Admin(" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="2222,2475" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="Always" ScopeGuid="982beb27-2077-44fb-8c26-d68559007aa2" Version="V2" WindowResize="Maximize">
           <uix:NApplicationCard.Body>
             <ActivityAction x:TypeArguments="x:Object">
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1094,2475" sap2010:WorkflowViewState.IdRef="Sequence_12">
+              <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="2188,2258" sap2010:WorkflowViewState.IdRef="Sequence_12">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <Sequence DisplayName="Lookup Verification" sap:VirtualizedContainerService.HintSize="1060,2413" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                <Sequence DisplayName="Lookup Verification" sap:VirtualizedContainerService.HintSize="2154,2196" sap2010:WorkflowViewState.IdRef="Sequence_3">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       <x:Boolean x:Key="IsPinned">False</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <uix:NGoToUrl DisplayName="Go To URL - " sap:VirtualizedContainerService.HintSize="1026,114" sap2010:WorkflowViewState.IdRef="NGoToUrl_1" Url="[OrderServerURL+&quot;/ProductExclusionLookupAdvance&quot;]" Version="V5" />
-                  <Delay Duration="00:00:20" sap:VirtualizedContainerService.HintSize="1026,122" sap2010:WorkflowViewState.IdRef="Delay_1" />
-                  <uix:NCheckState DisplayName="Check App State 'Product Exclusion Looku…'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="1026,2090" sap2010:WorkflowViewState.IdRef="NCheckState_2" ScopeIdentifier="982beb27-2077-44fb-8c26-d68559007aa2" Timeout="30" Version="V5">
+                  <uix:NGoToUrl DisplayName="Go To URL - " sap:VirtualizedContainerService.HintSize="2120,114" sap2010:WorkflowViewState.IdRef="NGoToUrl_1" Url="[OrderServerURL+&quot;/ProductExclusionLookupAdvance&quot;]" Version="V5" />
+                  <Delay Duration="00:00:20" sap:VirtualizedContainerService.HintSize="2120,122" sap2010:WorkflowViewState.IdRef="Delay_1" />
+                  <uix:NCheckState DisplayName="Check App State 'Product Exclusion Looku…'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="2120,1873" sap2010:WorkflowViewState.IdRef="NCheckState_2" ScopeIdentifier="982beb27-2077-44fb-8c26-d68559007aa2" Timeout="30" Version="V5">
                     <uix:NCheckState.IfExists>
-                      <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="522,1848" sap2010:WorkflowViewState.IdRef="Sequence_16">
+                      <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="1616,1631" sap2010:WorkflowViewState.IdRef="Sequence_16">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <Sequence DisplayName="Select Restaurant" sap:VirtualizedContainerService.HintSize="488,1475" sap2010:WorkflowViewState.IdRef="Sequence_8">
+                        <Sequence DisplayName="Select Restaurant" sap:VirtualizedContainerService.HintSize="1582,57" sap2010:WorkflowViewState.IdRef="Sequence_8">
                           <Sequence.Variables>
                             <Variable x:TypeArguments="s:String[]" Name="arrRestaurant" />
                           </Sequence.Variables>
@@ -310,7 +310,7 @@
                             </If.Else>
                           </If>
                         </Sequence>
-                        <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'BUTTON'" sap:VirtualizedContainerService.HintSize="450,139" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT">
+                        <ui:Click AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'BUTTON'" sap:VirtualizedContainerService.HintSize="1582,139" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT">
                           <ui:Click.CursorPosition>
                             <ui:CursorPosition Position="Center">
                               <ui:CursorPosition.OffsetX>
@@ -332,8 +332,8 @@
                             </ui:Target>
                           </ui:Click.Target>
                         </ui:Click>
-                        <Delay Duration="00:00:05" sap:VirtualizedContainerService.HintSize="450,122" sap2010:WorkflowViewState.IdRef="Delay_2" />
-                        <uix:NCheckState DisplayName="Check App State 'INPUT searchStr'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="450,50" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="982beb27-2077-44fb-8c26-d68559007aa2" Timeout="30" Version="V5">
+                        <Delay Duration="00:00:05" sap:VirtualizedContainerService.HintSize="1582,122" sap2010:WorkflowViewState.IdRef="Delay_2" />
+                        <uix:NCheckState DisplayName="Check App State 'INPUT searchStr'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="1582,1251" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="982beb27-2077-44fb-8c26-d68559007aa2" Timeout="30" Version="V5">
                           <uix:NCheckState.IfExists>
                             <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="504,969" sap2010:WorkflowViewState.IdRef="Sequence_2">
                               <Sequence.Variables>
@@ -421,20 +421,51 @@
                             </Sequence>
                           </uix:NCheckState.IfExists>
                           <uix:NCheckState.IfNotExists>
-                            <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="468,169" sap2010:WorkflowViewState.IdRef="Sequence_11">
+                            <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="1024,471" sap2010:WorkflowViewState.IdRef="Sequence_11">
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
-                              <Assign sap:VirtualizedContainerService.HintSize="434,107" sap2010:WorkflowViewState.IdRef="Assign_4">
-                                <Assign.To>
-                                  <OutArgument x:TypeArguments="x:String">[Processed]</OutArgument>
-                                </Assign.To>
-                                <Assign.Value>
-                                  <InArgument x:TypeArguments="x:String">FAILED</InArgument>
-                                </Assign.Value>
-                              </Assign>
+                              <uix:NCheckState DisplayName="Check App State 'There are no records to…'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="990,409" sap2010:WorkflowViewState.IdRef="NCheckState_3" ScopeIdentifier="982beb27-2077-44fb-8c26-d68559007aa2" Timeout="30" Version="V5">
+                                <uix:NCheckState.IfExists>
+                                  <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="468,169" sap2010:WorkflowViewState.IdRef="Sequence_19">
+                                    <sap:WorkflowViewStateService.ViewState>
+                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                      </scg:Dictionary>
+                                    </sap:WorkflowViewStateService.ViewState>
+                                    <Assign sap:VirtualizedContainerService.HintSize="434,107" sap2010:WorkflowViewState.IdRef="Assign_7">
+                                      <Assign.To>
+                                        <OutArgument x:TypeArguments="x:String">[Processed]</OutArgument>
+                                      </Assign.To>
+                                      <Assign.Value>
+                                        <InArgument x:TypeArguments="x:String">NO</InArgument>
+                                      </Assign.Value>
+                                    </Assign>
+                                  </Sequence>
+                                </uix:NCheckState.IfExists>
+                                <uix:NCheckState.IfNotExists>
+                                  <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="468,167" sap2010:WorkflowViewState.IdRef="Sequence_20">
+                                    <sap:WorkflowViewStateService.ViewState>
+                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                      </scg:Dictionary>
+                                    </sap:WorkflowViewStateService.ViewState>
+                                    <Assign sap:VirtualizedContainerService.HintSize="434,107" sap2010:WorkflowViewState.IdRef="Assign_4">
+                                      <Assign.To>
+                                        <OutArgument x:TypeArguments="x:String">[Processed]</OutArgument>
+                                      </Assign.To>
+                                      <Assign.Value>
+                                        <InArgument x:TypeArguments="x:String">FAILED</InArgument>
+                                      </Assign.Value>
+                                    </Assign>
+                                  </Sequence>
+                                </uix:NCheckState.IfNotExists>
+                                <uix:NCheckState.Target>
+                                  <uix:TargetAnchorable BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionLookupAdvance" CVScreenId="3aaad0b2-af30-4b8b-bf22-117f615e99cf" ContentHash="zYVz82npD0KJD39m1_TrUQ" CvTextArea="587, 694, 199, 17" CvTextArgument="There are no records to display" CvType="Text" DesignTimeRectangle="567, 671, 240, 64" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='There are no records to display' parentid='root' tag='DIV' /&gt;" Guid="4dc8f361-d385-499c-8c19-1d4623566d37" InformativeScreenshot="d4a8df696069a67ea47fb89d288670d6.png" Reference="mEDzMWy4KESA-HIzYnwmGQ/Qzqgu5CclkmRilbe_b5u7A" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion Lookup-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive" />
+                                </uix:NCheckState.Target>
+                              </uix:NCheckState>
                             </Sequence>
                           </uix:NCheckState.IfNotExists>
                           <uix:NCheckState.Target>
@@ -448,7 +479,7 @@
                           </uix:NCheckState.Target>
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               <x:Boolean x:Key="IsPinned">False</x:Boolean>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
@@ -489,7 +520,7 @@
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="1128,25" sap2010:WorkflowViewState.IdRef="Sequence_14">
+            <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="2222,25" sap2010:WorkflowViewState.IdRef="Sequence_14">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
