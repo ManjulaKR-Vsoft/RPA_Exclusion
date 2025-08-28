@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="26z9YMngJEiYp0GKc72F2g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="yum-giam-connect.auth.us-east-1.amazoncognito.com/login" CVScreenId="d5878924-c419-424b-a32f-7c1919fe60bd" CvElementArea="529, 361, 323, 36" CvType="InputBox" DesignTimeRectangle="531, 362, 320, 34" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='signInFormUsername' type='text' tag='INPUT' class='form-control inputField-customizable' placeholder='Username' aaname='Username' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="c4a1ab6f-ff73-46d7-bf9b-986464af3422" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Signin' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d5878924-c419-424b-a32f-7c1919fe60bd" CvTextArea="530, 340, 66, 13" CvTextArgument="Username" CvType="Text" DesignTimeRectangle="531, 337, 65, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Username' idx='2' tag='LABEL' /&gt;" Guid="0df56eb3-9dbc-46d1-898d-dcef1e773d8a" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d11f646d6991ca24317a8f3e2e182e0e.png" xmlns="">0bl3wu3ainUKLQ41C1Tx8_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

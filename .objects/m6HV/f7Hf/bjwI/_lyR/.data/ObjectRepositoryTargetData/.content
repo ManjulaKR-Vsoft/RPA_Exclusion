@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="51wxcgTBBEWnmY_4oYAGKA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uat-kfc-au-admin.cognizantorderservnxtgen.com/ProductExclusionAdvance" CVScreenId="ef78040f-28d9-40f0-b84c-c06527ff30e1" CvType="AnyWordGroup" DesignTimeRectangle="1019, 509, 287, 38" ElementType="InputBox" FullSelectorArgument="&lt;webctrl idx='2' tag='INPUT' type='text' /&gt;" Guid="64dc2689-4b75-4ff4-8e68-1f441b66358e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Product Exclusion-KFC-Australia-Admin' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ef78040f-28d9-40f0-b84c-c06527ff30e1" CvTextArea="1031, 501, 101, 13" CvTextArgument="End Date &amp; Time*" CvType="Text" DesignTimeRectangle="1031, 501, 101, 13" ElementType="Text" Guid="7b08c04b-d674-49cb-9220-3a193435d7df" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8bdedc82f5c9823ea386035c1e61a5bb.png" xmlns="">0PTq71UYEiUmsO-eFS_Wdjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
